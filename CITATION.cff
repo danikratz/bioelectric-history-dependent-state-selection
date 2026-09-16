@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the version 1.1 preprint with Zenodo identifier 10.5281/zenodo.22802165."
+title: "History-dependent state selection after transient coupling loss in a conductance-based bioelectric network"
+version: "1.1"
+date-released: 2026-09-16
+type: dataset
+authors:
+  - family-names: "Kratz"
+    given-names: "Daniela Barbosa"
+    affiliation: "Univali"
+    orcid: "https://orcid.org/0000-0001-8364-0246"
+    email: "dbkratz@gmail.com"
+abstract: "Companion computational archive for the version 1.1 scientific preprint. Original data and text are CC BY 4.0; code is MIT. Study identifier supplied by the author: 10.5281/zenodo.22802165."
+doi: 10.5281/zenodo.22802165
+url: https://doi.org/10.5281/zenodo.22802165

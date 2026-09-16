@@ -4,7 +4,7 @@ History-dependent state selection after transient coupling loss in a conductance
 
 # Version
 
-Version 1.0 — 15 September 2026. Author: Daniela Barbosa Kratz, Univali. ORCID: https://orcid.org/0000-0001-8364-0246. Scientific preprint; Zenodo deposit does not constitute peer review.
+Version 1.1 — 16 September 2026. Author: Daniela Barbosa Kratz, Univali. ORCID: https://orcid.org/0000-0001-8364-0246. Scientific preprint; Zenodo deposit does not constitute peer review.
 
 # Scientific question
 
@@ -28,9 +28,9 @@ Synthetic regenerative current, approximate potassium kinetics, correlated geome
 
 # Files in this deposit
 
-- History_Dependent_State_Selection_v1.0.pdf: scientific manuscript and five reused figures.
-- History_Dependent_State_Selection_Supplement_v1.0.pdf: methods, controls, verification and three reused figures.
-- History_Dependent_State_Selection_Reproducibility_v1.0.zip: scientific source trees, trajectories, metrics, protocols, code, figure sources, licenses and audit records.
+- History_Dependent_State_Selection_v1.1.pdf: scientific manuscript and five reused figures.
+- History_Dependent_State_Selection_Supplement_v1.1.pdf: methods, controls, verification and three reused figures.
+- History_Dependent_State_Selection_Reproducibility_v1.1.zip: scientific source trees, trajectories, metrics, protocols, code, figure sources, licenses and audit records.
 - README_ZENODO.md: this guide.
 - ZENODO_PROVENANCE.md: chronology, source/public-copy hashes and preparation scope.
 - ZENODO_MANIFEST_SHA256.txt: SHA-256 of the five upload payload files, excluding the manifest itself.
@@ -49,7 +49,7 @@ Omit --run to prepare only. Main reproduction covers the 487-case experiment, re
 
 `python source_code/figuras_publicacao.py` reexports the two existing English figures from archived arrays only into figures/. This changes output files and therefore invalidates the internal manifest unless it is regenerated. It does not integrate the model. Other original figure routines are in each scientific tree and may also rewrite derived files; inspect and run only in a copy.
 
-Effective main records: metricas_conferidas.csv and resultados_conferidos.jsonl, with six replacements under precisao_corrigida. Effective validation records: resultados_conferidos_validacao.jsonl and each record's effective_source trajectory, currently refinadas. Historical initial failures are intentionally retained. Current interpretation is the v1.0 manuscript, not superseded exploratory wording.
+Effective main records: metricas_conferidas.csv and resultados_conferidos.jsonl, with six replacements under precisao_corrigida. Effective validation records: resultados_conferidos_validacao.jsonl and each record's effective_source trajectory, currently refinadas. Historical initial failures are intentionally retained. Current interpretation is the v1.1 manuscript, not superseded exploratory wording.
 
 # Software environment
 
@@ -67,8 +67,24 @@ Six initial main refinement failures were preserved and corrected without relaxi
 
 # Citation
 
-Kratz, Daniela Barbosa (2026). History-dependent state selection after transient coupling loss in a conductance-based bioelectric network. Version 1.0. Scientific preprint and reproducibility materials. Zenodo. Use the exact DOI or record URL shown by Zenodo after publication; none is invented in these local files. A reserved DOI is not yet a published record.
+Kratz, Daniela Barbosa (2026). History-dependent state selection after transient coupling loss in a conductance-based bioelectric network. Version 1.1. Scientific preprint and reproducibility materials. Zenodo identifier: https://doi.org/10.5281/zenodo.22802165.
 
 # Contact
 
 Daniela Barbosa Kratz — Univali. dbkratz@gmail.com. ORCID: https://orcid.org/0000-0001-8364-0246.
+
+# Version 1.1 revision
+
+Version 1.1 translates figure labels into English, updates author declarations, updates the Zenodo DOI and GitHub link, and expands the prior-literature discussion. Numerical results and conclusions are unchanged. Revision date: 16 September 2026. Use figures/english/ for current figures; Portuguese images in study/ are preserved historical outputs. The archive supplies all ten current PNG figures, ten SVGs, the eight-figure translation audit and source_code/render_english_figures.py. Run the latter with `--study-root study --output english_reexport` to write derivatives to a separate directory, without integrating any model. See ZENODO_PROVENANCE.md for the revision history and limits of verification.
+
+The current main PDF contains Figures 1–5; the supplement contains Figures S1–S3. A separate ResearchGate PDF combines those two documents. None has been peer reviewed. The current study identifier is 10.5281/zenodo.22802165.
+
+# Project repository
+
+Manuscripts and project documentation: https://github.com/danikratz/bioelectric-history-dependent-state-selection. The repository is public and is maintained as the manuscript and documentation companion. The full computational archive is distributed with the Zenodo deposit; do not assume that all trajectories or source files are mirrored on GitHub. The local version 1.1 manuscript also replaces preparation notes with standard data-availability and scientific declarations.
+
+The prior-literature discussion now cites Pezzulo et al. (2021), DOI 10.1098/rstb.2019.0765. Literature coverage remains targeted and non-exhaustive. Author contributions state conceptualization and writing review/editing, supported by the documented contribution and manuscript revision history.
+
+# DOI replacement
+
+The author supplied 10.5281/zenodo.22802165 as the replacement study identifier after reporting removal of the preceding record. All current manuscript links and citation metadata use this identifier. The Zenodo public API returned HTTP 404 during preparation, so public availability was not independently confirmed. Earlier local releases are retained only as historical backups; they are not the upload package for this identifier.
