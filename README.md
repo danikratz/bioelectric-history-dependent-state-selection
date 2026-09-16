@@ -19,11 +19,23 @@ A synthetic conductance-based network of 226 nodes and 622 edges compares uninte
 
 The contribution is a controlled extension of established bioelectric-memory phenomena. Physiological generality and priority of the exact comparison remain unresolved. The manuscript explicitly discusses Pezzulo et al. (2021), DOI 10.1098/rstb.2019.0765, as prior literature. Numerical results and scientific figures are unchanged in this editorial revision.
 
-## Reproducibility and availability
+## Code and reproducibility
 
-This repository hosts manuscripts, citation metadata and documentation. The full computational archive (approximately 2.67 GB) is provided in the corresponding Zenodo upload package, not in this Git repository. It contains frozen protocols, code, trajectories, structured results and numerical/provenance audits. See [README_ZENODO.md](README_ZENODO.md) and [ZENODO_PROVENANCE.md](ZENODO_PROVENANCE.md).
+The repository includes the original scientific source code, pinned dependencies, frozen protocols, numerical results and enough archived data to regenerate all ten figures without running new simulations. Start with [REPRODUCING.md](REPRODUCING.md).
 
-`ZENODO_MANIFEST_SHA256.txt` verifies the complete six-file Zenodo package, including the large ZIP, and is not a manifest of this Git repository. `GITHUB_MANIFEST_SHA256.txt` verifies the public companion files here. Verify with `shasum -a 256 -c GITHUB_MANIFEST_SHA256.txt` after downloading all repository files.
+```bash
+python -m pip install -r requirements-reproduction.txt
+python scripts/reproduce_figures.py
+python scripts/check_reproduced_figures.py
+```
+
+Use a Python 3.9 virtual environment as detailed in the guide. The figures were regenerated and all ten PNGs matched the frozen release byte for byte. This checks figure reproduction, not biological validation or a new simulation campaign.
+
+The [original model and experiment code](study/) is preserved byte for byte. The [plotting scripts](source_code/) and [figure-to-code map](REPRODUCING.md#figure-to-code-map) show how each panel was generated. An exact endpoint cache supplies the validation figure values, with per-source hashes in [figure_data/validation_final_voltages.provenance.json](figure_data/validation_final_voltages.provenance.json).
+
+Complete transient trajectories and full numerical rerun/audit inputs are in the approximately 2.67 GB reproducibility ZIP for the corresponding Zenodo deposit. They are not all included in this lightweight checkout. See the guide for complete-archive verification and simulation commands. The scientific campaign remains closed; no new simulations were performed for this repository update.
+
+`GITHUB_MANIFEST_SHA256.txt` verifies files in this checkout. `ZENODO_MANIFEST_SHA256.txt` describes the separately distributed full Zenodo package, including its large ZIP. Historical manifests in `study/` also refer to the full scientific archive, not just the GitHub subset.
 
 ## Citation and license
 

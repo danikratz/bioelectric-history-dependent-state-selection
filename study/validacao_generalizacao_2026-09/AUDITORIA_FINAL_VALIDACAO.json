@@ -1,0 +1,57 @@
+{
+  "completed_utc": "2026-09-15T15:20:15.856798+00:00",
+  "conditions": 136,
+  "isolated_conditions": 6,
+  "all_csv_jsonl_fields_equal": true,
+  "recomputed_high_counts_and_peaks_and_first_recruitment": true,
+  "max_metric_recomputation_error_V": 0.0,
+  "paired_comparisons_checked": 87,
+  "geometry_checks": [
+    {
+      "name": "historica",
+      "changed_undirected_edges_vs_original": 0,
+      "source": 61,
+      "targets": 104
+    },
+    {
+      "name": "fonte_esquerda",
+      "changed_undirected_edges_vs_original": 0,
+      "source": 50,
+      "targets": 168
+    },
+    {
+      "name": "fonte_direita",
+      "changed_undirected_edges_vs_original": 0,
+      "source": 63,
+      "targets": 170
+    },
+    {
+      "name": "geometria_1701",
+      "changed_undirected_edges_vs_original": 12,
+      "source": 52,
+      "targets": 110
+    },
+    {
+      "name": "geometria_2701",
+      "changed_undirected_edges_vs_original": 10,
+      "source": 61,
+      "targets": 109
+    }
+  ],
+  "previous_files_unchanged": 584,
+  "frozen_protocol_unchanged": true,
+  "execution_code_unchanged": true,
+  "historical_regressions": [
+    {
+      "old": "case0147",
+      "new": "v0000",
+      "max_difference_V": 7.280010088164812e-08
+    },
+    {
+      "old": "case0159",
+      "new": "v0001",
+      "max_difference_V": 7.3812872081018e-08
+    }
+  ],
+  "passed": true
+}

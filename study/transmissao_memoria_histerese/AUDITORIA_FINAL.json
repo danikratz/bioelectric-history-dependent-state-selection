@@ -1,0 +1,20 @@
+{
+  "completed_utc": "2026-09-15T13:00:01.390379+00:00",
+  "conditions": 487,
+  "corrected_cases": 6,
+  "all_peaks_recomputed": true,
+  "max_recomputed_peak_error_mV": 0.0,
+  "all_final_fractions_recomputed": true,
+  "graphs_matched": true,
+  "frozen_sources_unchanged": true,
+  "accepted_after_precision_correction": true,
+  "original_precision_failure_preserved": true,
+  "independent_biological_validation": false,
+  "figure_visual_inspection": [
+    "01_histerese.png",
+    "02_memoria_recrutamento.png",
+    "03_trajetorias.png",
+    "04_reparos.png",
+    "05_estados_espaciais.png"
+  ]
+}

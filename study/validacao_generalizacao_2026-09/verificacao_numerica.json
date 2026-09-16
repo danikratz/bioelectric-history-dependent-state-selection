@@ -1,0 +1,14 @@
+{
+  "completed_utc": "2026-09-15T14:15:05.665736+00:00",
+  "network_conditions": 136,
+  "all_refined": true,
+  "radau_count": 44,
+  "original_failed_ids": [],
+  "corrected_ids": [],
+  "unresolved_ids": [],
+  "maximum_primary_refined_V": 2.148931828177547e-07,
+  "maximum_radau_refined_V": 1.115049025335324e-11,
+  "classification_changes": [],
+  "passed": true,
+  "records_file": "verificacao_linhas.jsonl"
+}

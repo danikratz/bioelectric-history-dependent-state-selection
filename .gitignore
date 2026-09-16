@@ -1,0 +1,7 @@
+figures/
+__pycache__/
+*.pyc
+.venv*/
+.DS_Store
+study/main_rerun/
+study/validation_rerun/

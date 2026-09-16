@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "$PROJECT_ROOT/research/bioeletricidade-vmem-2026-09-08/transmissao_memoria_histerese/histerese.py", line 50, in <module>
+    if __name__=='__main__':main()
+  File "$PROJECT_ROOT/research/bioeletricidade-vmem-2026-09-08/transmissao_memoria_histerese/histerese.py", line 25, in main
+    y0=model.state(1,model.roots(low)[0])
+IndexError: index 0 is out of bounds for axis 0 with size 0

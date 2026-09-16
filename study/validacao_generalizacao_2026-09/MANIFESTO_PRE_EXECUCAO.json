@@ -1,0 +1,9 @@
+{
+  "PLANO_VALIDACAO.md": "de4767af5fda0dbec95ddb57c6036f0bbbf68e18066ffdf27e9100c9b0757e36",
+  "auditoria_previa.json": "8ee34d9d728a7449a7fe169754523589017dc68961c20d8e5816292f49bdc349",
+  "congelamento.json": "41ee886421e62cd98d9b9f3074f4942cca84d23c57126acf2735e46530a1f48a",
+  "geometrias.npz": "4b6d9eb21e0088cc1c49cb71db2f0189afe8206438209159b2e7a4c9cecaf449",
+  "originais_sha256.json": "644a06d71306dcbd106604487a4c2f2520f4cc6af2fa301371914f07b20e941b",
+  "preparar.py": "723bf3359d16f58f5638aae1e8c7cb62f032d247c6ce789f33cf640cd19fe87c",
+  "protocolo_validacao.json": "25357a76b1e211c2fb90c331ed8f7736ce4db6278c613b63170a97df68ffebef"
+}

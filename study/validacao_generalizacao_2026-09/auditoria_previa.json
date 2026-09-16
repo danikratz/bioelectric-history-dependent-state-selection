@@ -1,0 +1,24 @@
+{
+  "utc": "2026-09-15T13:58:30.595240+00:00",
+  "conditions": 487,
+  "manifest_files": 583,
+  "all_old_files": 584,
+  "max_recomputed_peak_error_mV": 0.0,
+  "csv_jsonl_all_fields_equal": true,
+  "all_final_fractions_recomputed": true,
+  "repair_contrasts_recomputed": true,
+  "old_initial_precision_failure_preserved": true,
+  "passed": true,
+  "reuse": [
+    "core.Model",
+    "core.functions",
+    "core.lap",
+    "core.C/GL/EL/EK/GK/ED/f/a"
+  ],
+  "not_reused": {
+    "protocol_segments": "Hard-coded ORIGINAL and N; new graphs require explicit final graph.",
+    "metrics/compact": "Hard-coded RIGHT/CENTER; new masks require explicit arguments."
+  },
+  "proven_old_bug_found": false,
+  "scope": "Archived trajectory reanalysis, no old reruns; all prior JSON and JSONL records parsed."
+}

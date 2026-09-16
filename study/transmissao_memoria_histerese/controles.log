@@ -1,0 +1,7 @@
+ablation bistable 0.9
+ablation bistable 1.0
+ablation bistable 1.1
+ablation excitable 0.9
+ablation excitable 1.0
+ablation excitable 1.1
+{"perturbed_low_returns": true, "perturbed_high_returns": true, "gd_removal_erases_high_state": true, "stable_homogeneous_branches": true, "no_regenerative_target_peak_when_gd_off": true, "gd_off_returns": true}

@@ -1,0 +1,44 @@
+{
+  "started_utc": "2026-09-15T14:01:52.822705+00:00",
+  "protocol_sha256": "a9d5d8078bfef94c02864a6c7753946882259e0846e44b8541cadb715deac4fb",
+  "environment": {
+    "python": "3.9.6",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "executable": "$PROJECT_ROOT/.venv-betse130/bin/python"
+  },
+  "code_sha256": {
+    "executar.py": "e17517dfd88acdfd0c125d2592b7a32351010d46032293a833edf89ed0c8ab06",
+    "modelo.py": "9f4400f7cfc89347bc1dd608f2ee2603ba54044913fa37459023074a9c7e8382",
+    "preparar.py": "723bf3359d16f58f5638aae1e8c7cb62f032d247c6ce789f33cf640cd19fe87c"
+  },
+  "planned_network_conditions": 136,
+  "planned_isolated_conditions": 6,
+  "primary_completed_utc": "2026-09-15T14:05:02.838534+00:00",
+  "completed_network_conditions": 136,
+  "isolated_conditions": 6,
+  "verification_completed_utc": "2026-09-15T14:15:05.672248+00:00",
+  "verified_conditions": 136,
+  "radau_conditions": 44,
+  "campaign_closed": true,
+  "scientific_blocks_completed": [
+    1,
+    2,
+    3
+  ],
+  "closure_utc": "2026-09-15T15:23:39.907885+00:00",
+  "new_scientific_conditions_after_protocol": 0,
+  "numerical_network_trajectories": 316,
+  "numerical_isolated_trajectories": 18,
+  "publication_recommendation": "B",
+  "final_code_sha256": {
+    "executar.py": "e17517dfd88acdfd0c125d2592b7a32351010d46032293a833edf89ed0c8ab06",
+    "modelo.py": "9f4400f7cfc89347bc1dd608f2ee2603ba54044913fa37459023074a9c7e8382",
+    "preparar.py": "723bf3359d16f58f5638aae1e8c7cb62f032d247c6ce789f33cf640cd19fe87c",
+    "gerar_relatorio.py": "a78c7bb75440cc83b071371f826218159bc5eceb27f38e45163f0e360fb9d215",
+    "analisar_validacao.py": "7cf7b16cce64197db018803410ecbd3ebd4a13ea4dc3fc66256c8f6cc9e6309d",
+    "auditar_validacao.py": "a9c3fdcdc0ea46db05cd5f0cf7a43f8514fd6483eaaa3182f2c5fd7d0d05bdd8",
+    "reproduzir_validacao.py": "8c46088b4b2993b84a4a6c8374bf9176db6f6ae7cc87da2f0208c40709da1cf5"
+  }
+}

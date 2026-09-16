@@ -1,0 +1,55 @@
+{
+  "origin": "Hybrid verification: published hKv1.5 activation fit and deactivation timescale; synthetic conductance density, capacitance, leak and topology. Not a tissue-calibrated channel.",
+  "cm_F_m2": 0.01,
+  "G_leak_S_m2": 1.0,
+  "G_gap_S_m2": 1.0,
+  "E_leak_V": -0.05,
+  "E_channel_V": -0.07967507185138671,
+  "g_channel_S_m2": 2.0,
+  "V_half_V": -0.00076,
+  "slope_V": 0.01409,
+  "tau_m_s": 0.0148,
+  "initial_increment_V": 0.01,
+  "duration_s": 0.02,
+  "dt_s": [
+    2.5e-05,
+    1.25e-05,
+    6.25e-06
+  ],
+  "regression_dt_s": 2.5e-05,
+  "regression_max_normalized_error": 0.01,
+  "voltage_normalizer_V": 0.01,
+  "manufactured_max_normalized_voltage_error": 0.01,
+  "manufactured_max_absolute_gate_error": 0.01,
+  "independent_max_absolute_error": 1e-11,
+  "balance_normalizer_A_m2": 0.01,
+  "balance_max_normalized_residual": 1e-09,
+  "order_ratio_range": [
+    1.8,
+    2.2
+  ],
+  "stiff_tau_m_s": 1e-06,
+  "stiff_g_channel_S_m2": 500.0,
+  "stiff_duration_s": 0.002,
+  "stiff_dt_s": [
+    0.0001,
+    5e-05,
+    2.5e-05,
+    1.25e-05,
+    6.25e-06
+  ],
+  "manufactured_voltage": "V*(t)=-0.045+0.002 exp(-t/0.02) sin(2 pi t/0.02), uniform across nodes",
+  "manufactured_gate": "m*(t)=0.4+0.03 sin(2 pi t/0.02), uniform across nodes",
+  "integration": "Native ChannelsABC.update_mh semi-implicit gating first; native FAST explicit voltage second. Synthetic channel and source hook, not packaged channel dispatch.",
+  "scenarios_tau_s": {
+    "inferior_SEM": 0.0134,
+    "central": 0.0148,
+    "superior_SEM": 0.0162
+  },
+  "temperature_C": 25,
+  "tau_scope": "Published deactivation at -40 mV; treating as constant across dynamic V is an explicit unvalidated approximation",
+  "uncertainty_scope": "Mean +/- one SEM, n=10; not a confidence interval or observed population extremes. Only tau uncertainty propagated.",
+  "physiological_match_status": "No matched resting potential for CHO expressing hKv1.5 in selected study; holding voltage -80 mV is not resting potential",
+  "E_channel_origin": "Ideal Nernst estimate from nominal solutions: 5.4 mM external K, 120 mM internal K excluding unreported added KOH; ideal activities; not measured reversal",
+  "prospective_max_sufficient_dt_s": 0.0011111111111111111
+}

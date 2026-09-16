@@ -1,0 +1,992 @@
+{
+  "scope": "Rendering only; no ODE integration. Numeric-artist hashes exclude text and layout.",
+  "figures": [
+    {
+      "figure": "01_histerese",
+      "numeric_artists_before_sha256": "44828698dc3f651e103f8450dc9c70c9bc1d9450933191d11ea529294d903114",
+      "numeric_artists_after_sha256": "44828698dc3f651e103f8450dc9c70c9bc1d9450933191d11ea529294d903114",
+      "unchanged": true,
+      "translations": [
+        [
+          "Corrente aplicada (A/m²)",
+          "Applied current density (A/m²)"
+        ],
+        [
+          "Voltagem (mV)",
+          "Voltage (mV)"
+        ],
+        [
+          "Kv1.5: laço por atraso",
+          "Kv1.5: kinetic lag"
+        ],
+        [
+          "0.2 s por sentido",
+          "0.2 s per ramp leg"
+        ],
+        [
+          "1 s por sentido",
+          "1 s per ramp leg"
+        ],
+        [
+          "5 s por sentido",
+          "5 s per ramp leg"
+        ],
+        [
+          "Corrente aplicada (A/m²)",
+          "Applied current density (A/m²)"
+        ],
+        [
+          "Voltagem (mV)",
+          "Voltage (mV)"
+        ],
+        [
+          "Extensão persistente: histerese",
+          "Persistent extension: hysteresis"
+        ],
+        [
+          "0.2 s por sentido",
+          "0.2 s per ramp leg"
+        ],
+        [
+          "1 s por sentido",
+          "1 s per ramp leg"
+        ],
+        [
+          "5 s por sentido",
+          "5 s per ramp leg"
+        ],
+        [
+          "Diagnóstico sintético — a coexistência de repousos confirma a memória",
+          "Synthetic local dynamics: finite-rate loops and coexisting resting states"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0.000",
+        "0.025",
+        "0.2 s per ramp leg",
+        "1 s per ramp leg",
+        "5 s per ramp leg",
+        "50",
+        "Applied current density (A/m²)",
+        "Kv1.5: kinetic lag",
+        "Persistent extension: hysteresis",
+        "Synthetic local dynamics: finite-rate loops and coexisting resting states",
+        "Voltage (mV)",
+        "−0.025",
+        "−0.050",
+        "−0.075",
+        "−0.100",
+        "−0.125",
+        "−0.150",
+        "−0.175",
+        "−0.200",
+        "−100",
+        "−125",
+        "−150",
+        "−175",
+        "−200",
+        "−225",
+        "−25",
+        "−250",
+        "−50",
+        "−75"
+      ]
+    },
+    {
+      "figure": "02_memoria_recrutamento",
+      "numeric_artists_before_sha256": "945d0ce25add9396a1ddc0282de6cad11cf0ff821202afaa8ec0639a20ff1dbe",
+      "numeric_artists_after_sha256": "945d0ce25add9396a1ddc0282de6cad11cf0ff821202afaa8ec0639a20ff1dbe",
+      "unchanged": true,
+      "translations": [
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Orig.",
+          "Intact"
+        ],
+        [
+          "Int.",
+          "Interface"
+        ],
+        [
+          "A11",
+          "R11"
+        ],
+        [
+          "A22",
+          "R22"
+        ],
+        [
+          "A33",
+          "R33"
+        ],
+        [
+          "Corte",
+          "Cut"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "bistable | estímulo 0.9 × limiar original",
+          "Persistent | 0.9 × reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "bistable | estímulo 1 × limiar original",
+          "Persistent | 1 × reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "bistable | estímulo 1.1 × limiar original",
+          "Persistent | 1.1 × reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "excitable | estímulo 0.9 × limiar original",
+          "Excitable | 0.9 × reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "excitable | estímulo 1 × limiar original",
+          "Excitable | 1 × reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "excitable | estímulo 1.1 × limiar original",
+          "Excitable | 1.1 × reference"
+        ],
+        [
+          "Fração dos 104 receptores",
+          "Fraction of 104 receivers"
+        ],
+        [
+          "Acima: estado final aos 2 s. Abaixo: cruzamento de limiar até 2 s.\nValores nas células em %; cruzar o limiar não basta para provar uma excursão regenerativa.",
+          "Top: final state at 2 s. Bottom: threshold crossing by 2 s.\nCell values are percentages; threshold crossing alone does not demonstrate a regenerative excursion."
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0.0",
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8",
+        "1.0",
+        "100",
+        "2",
+        "20",
+        "200",
+        "50",
+        "500",
+        "Cut",
+        "Excitable | 0.9 × reference",
+        "Excitable | 1 × reference",
+        "Excitable | 1.1 × reference",
+        "Fraction of 104 receivers",
+        "Intact",
+        "Interface",
+        "Persistent | 0.9 × reference",
+        "Persistent | 1 × reference",
+        "Persistent | 1.1 × reference",
+        "R11",
+        "R22",
+        "R33",
+        "Restoration (ms)",
+        "Top: final state at 2 s. Bottom: threshold crossing by 2 s.\nCell values are percentages; threshold crossing alone does not demonstrate a regenerative excursion."
+      ]
+    },
+    {
+      "figure": "03_trajetorias",
+      "numeric_artists_before_sha256": "2e249ea3ecbde7b58c30d62ea9d12c79037dc16abff8df0799a3c4accef2e995",
+      "numeric_artists_after_sha256": "2e249ea3ecbde7b58c30d62ea9d12c79037dc16abff8df0799a3c4accef2e995",
+      "unchanged": true,
+      "translations": [
+        [
+          "Tempo (ms)",
+          "Time (ms)"
+        ],
+        [
+          "ΔV médio dos receptores (mV)",
+          "Mean receiver ΔV (mV)"
+        ],
+        [
+          "kv",
+          "Graded Kv1.5"
+        ],
+        [
+          "Original",
+          "Intact"
+        ],
+        [
+          "Aleatório 11",
+          "Random 11"
+        ],
+        [
+          "Aleatório 22",
+          "Random 22"
+        ],
+        [
+          "Aleatório 33",
+          "Random 33"
+        ],
+        [
+          "Corte total",
+          "Complete cut"
+        ],
+        [
+          "Tempo (ms)",
+          "Time (ms)"
+        ],
+        [
+          "ΔV médio dos receptores (mV)",
+          "Mean receiver ΔV (mV)"
+        ],
+        [
+          "bistable",
+          "Persistent"
+        ],
+        [
+          "Tempo (ms)",
+          "Time (ms)"
+        ],
+        [
+          "ΔV médio dos receptores (mV)",
+          "Mean receiver ΔV (mV)"
+        ],
+        [
+          "excitable",
+          "Excitable"
+        ],
+        [
+          "Exemplos fixados: protocolos distintos entre o braço graduado e as extensões",
+          "Archived examples: graded and regenerative variants use different protocols"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0.0000",
+        "0.0025",
+        "0.0050",
+        "0.0075",
+        "0.0100",
+        "0.0125",
+        "0.0150",
+        "0.0175",
+        "0.0200",
+        "10",
+        "100",
+        "150",
+        "20",
+        "200",
+        "250",
+        "30",
+        "300",
+        "40",
+        "400",
+        "50",
+        "500",
+        "60",
+        "600",
+        "70",
+        "700",
+        "800",
+        "Archived examples: graded and regenerative variants use different protocols",
+        "Complete cut",
+        "Excitable",
+        "Graded Kv1.5",
+        "Intact",
+        "Interface 10%",
+        "Mean receiver ΔV (mV)",
+        "Persistent",
+        "Random 11",
+        "Random 22",
+        "Random 33",
+        "Time (ms)",
+        "−0.0025",
+        "−10"
+      ]
+    },
+    {
+      "figure": "04_reparos",
+      "numeric_artists_before_sha256": "d8d80b36fa44bca616b4a125f868229c782451a1cdb3240e5b9d1828c6806b98",
+      "numeric_artists_after_sha256": "d8d80b36fa44bca616b4a125f868229c782451a1cdb3240e5b9d1828c6806b98",
+      "unchanged": true,
+      "translations": [
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Pico médio (mV)",
+          "Mean peak (mV)"
+        ],
+        [
+          "kv | 0.9 × estímulo de referência",
+          "Graded Kv1.5 | 0.9 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Pico médio (mV)",
+          "Mean peak (mV)"
+        ],
+        [
+          "kv | 1 × estímulo de referência",
+          "Graded Kv1.5 | 1 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Pico médio (mV)",
+          "Mean peak (mV)"
+        ],
+        [
+          "kv | 1.1 × estímulo de referência",
+          "Graded Kv1.5 | 1.1 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração final",
+          "Final high-receiver fraction"
+        ],
+        [
+          "bistable | 0.9 × estímulo de referência",
+          "Persistent | 0.9 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração final",
+          "Final high-receiver fraction"
+        ],
+        [
+          "bistable | 1 × estímulo de referência",
+          "Persistent | 1 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração final",
+          "Final high-receiver fraction"
+        ],
+        [
+          "bistable | 1.1 × estímulo de referência",
+          "Persistent | 1.1 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração recrutada",
+          "Fraction ever crossing threshold"
+        ],
+        [
+          "excitable | 0.9 × estímulo de referência",
+          "Excitable | 0.9 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração recrutada",
+          "Fraction ever crossing threshold"
+        ],
+        [
+          "excitable | 1 × estímulo de referência",
+          "Excitable | 1 × reference"
+        ],
+        [
+          "Arestas reparadas",
+          "Repaired edges"
+        ],
+        [
+          "Fração recrutada",
+          "Fraction ever crossing threshold"
+        ],
+        [
+          "excitable | 1.1 × estímulo de referência",
+          "Excitable | 1.1 × reference"
+        ],
+        [
+          "Reparo antes do pulso, mesma condutância adicionada por orçamento\nConectar mais pode elevar a carga elétrica enfrentada pela fonte",
+          "Repair before stimulation; equal added conductance at each budget\nAdditional connections can increase source loading"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0.0",
+        "0.00",
+        "0.005",
+        "0.01",
+        "0.010",
+        "0.015",
+        "0.02",
+        "0.020",
+        "0.025",
+        "0.03",
+        "0.030",
+        "0.035",
+        "0.04",
+        "0.040",
+        "0.045",
+        "0.05",
+        "0.050",
+        "0.06",
+        "0.2",
+        "0.4",
+        "0.6",
+        "0.8",
+        "1.0",
+        "1.2",
+        "10",
+        "20",
+        "30",
+        "40",
+        "Excitable | 0.9 × reference",
+        "Excitable | 1 × reference",
+        "Excitable | 1.1 × reference",
+        "Final high-receiver fraction",
+        "Fraction ever crossing threshold",
+        "Graded Kv1.5 | 0.9 × reference",
+        "Graded Kv1.5 | 1 × reference",
+        "Graded Kv1.5 | 1.1 × reference",
+        "Mean peak (mV)",
+        "Persistent | 0.9 × reference",
+        "Persistent | 1 × reference",
+        "Persistent | 1.1 × reference",
+        "Repair before stimulation; equal added conductance at each budget\nAdditional connections can increase source loading",
+        "Repaired edges",
+        "directed",
+        "random11",
+        "random22",
+        "random33",
+        "−0.2",
+        "−10"
+      ]
+    },
+    {
+      "figure": "05_estados_espaciais",
+      "numeric_artists_before_sha256": "e9dfe99c672943d20a9b1923b9a1bf07b1a3aafc9273d6e55d55d88b1d1d877c",
+      "numeric_artists_after_sha256": "e9dfe99c672943d20a9b1923b9a1bf07b1a3aafc9273d6e55d55d88b1d1d877c",
+      "unchanged": true,
+      "translations": [
+        [
+          "Repouso antes do pulso",
+          "Rest before stimulation"
+        ],
+        [
+          "Rede intacta durante o pulso",
+          "Intact network during stimulation"
+        ],
+        [
+          "Interface fraca até 500 ms",
+          "Interface weakened until 500 ms"
+        ],
+        [
+          "Voltagem (mV)",
+          "Voltage (mV)"
+        ],
+        [
+          "Histórias diferentes, mesmas conexões e parâmetros finais\nPulso de 20 ms no nó marcado; estímulo 0,9 × referência; estados aos 2 s",
+          "Different histories; identical final connections and parameters\n20 ms pulse at the marked node; 0.9 × reference stimulus; states at 2 s"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "10",
+        "Different histories; identical final connections and parameters\n20 ms pulse at the marked node; 0.9 × reference stimulus; states at 2 s",
+        "Intact network during stimulation",
+        "Interface weakened until 500 ms",
+        "Rest before stimulation",
+        "Voltage (mV)",
+        "−10",
+        "−20",
+        "−30",
+        "−40",
+        "−50",
+        "−60"
+      ]
+    },
+    {
+      "figure": "fig_generalizacao_geometrias",
+      "numeric_artists_before_sha256": "365c773d47499dbe3d1f882e469d3a8f6fcf2ae68c66eb3c7933bbe7e196905b",
+      "numeric_artists_after_sha256": "365c773d47499dbe3d1f882e469d3a8f6fcf2ae68c66eb3c7933bbe7e196905b",
+      "unchanged": true,
+      "translations": [
+        [
+          "historica\nfonte 61; 104 receptores; 32 arestas",
+          "Original geometry\nsource 61; 104 receivers; 32 edges"
+        ],
+        [
+          "Intacta\n0/104 receptores altos; 1/226 nós",
+          "Intact\n0/104 high receivers; 1/226 nodes"
+        ],
+        [
+          "Interface → restauração 500 ms\n104/104 receptores altos; 226/226 nós",
+          "Interface restored at 500 ms\n104/104 high receivers; 226/226 nodes"
+        ],
+        [
+          "fonte_esquerda\nfonte 50; 168 receptores; 28 arestas",
+          "Left source\nsource 50; 168 receivers; 28 edges"
+        ],
+        [
+          "Intacta\n0/168 receptores altos; 1/226 nós",
+          "Intact\n0/168 high receivers; 1/226 nodes"
+        ],
+        [
+          "Interface → restauração 500 ms\n168/168 receptores altos; 226/226 nós",
+          "Interface restored at 500 ms\n168/168 high receivers; 226/226 nodes"
+        ],
+        [
+          "fonte_direita\nfonte 63; 170 receptores; 28 arestas",
+          "Right source\nsource 63; 170 receivers; 28 edges"
+        ],
+        [
+          "Intacta\n0/170 receptores altos; 1/226 nós",
+          "Intact\n0/170 high receivers; 1/226 nodes"
+        ],
+        [
+          "Interface → restauração 500 ms\n170/170 receptores altos; 226/226 nós",
+          "Interface restored at 500 ms\n170/170 high receivers; 226/226 nodes"
+        ],
+        [
+          "geometria_1701\nfonte 52; 110 receptores; 37 arestas",
+          "Geometry 1701\nsource 52; 110 receivers; 37 edges"
+        ],
+        [
+          "Intacta\n0/110 receptores altos; 1/226 nós",
+          "Intact\n0/110 high receivers; 1/226 nodes"
+        ],
+        [
+          "Interface → restauração 500 ms\n110/110 receptores altos; 226/226 nós",
+          "Interface restored at 500 ms\n110/110 high receivers; 226/226 nodes"
+        ],
+        [
+          "geometria_2701\nfonte 61; 109 receptores; 38 arestas",
+          "Geometry 2701\nsource 61; 109 receivers; 38 edges"
+        ],
+        [
+          "Intacta\n0/109 receptores altos; 1/226 nós",
+          "Intact\n0/109 high receivers; 1/226 nodes"
+        ],
+        [
+          "Interface → restauração 500 ms\n109/109 receptores altos; 226/226 nós",
+          "Interface restored at 500 ms\n109/109 high receivers; 226/226 nodes"
+        ],
+        [
+          "Voltagem final aos 5 s (mV)",
+          "Final voltage at 5 s (mV)"
+        ],
+        [
+          "A — Generalização de geometria e fonte | pulso fixo 0,9×\nTodas as configurações pré-definidas; mesmas conexões finais em cada par",
+          "A — Geometry and source generalization | fixed 0.9× stimulus\nAll prespecified configurations; identical final connections within each pair"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "10",
+        "A — Geometry and source generalization | fixed 0.9× stimulus\nAll prespecified configurations; identical final connections within each pair",
+        "Final voltage at 5 s (mV)",
+        "Geometry 1701\nsource 52; 110 receivers; 37 edges",
+        "Geometry 2701\nsource 61; 109 receivers; 38 edges",
+        "Intact\n0/104 high receivers; 1/226 nodes",
+        "Intact\n0/109 high receivers; 1/226 nodes",
+        "Intact\n0/110 high receivers; 1/226 nodes",
+        "Intact\n0/168 high receivers; 1/226 nodes",
+        "Intact\n0/170 high receivers; 1/226 nodes",
+        "Interface restored at 500 ms\n104/104 high receivers; 226/226 nodes",
+        "Interface restored at 500 ms\n109/109 high receivers; 226/226 nodes",
+        "Interface restored at 500 ms\n110/110 high receivers; 226/226 nodes",
+        "Interface restored at 500 ms\n168/168 high receivers; 226/226 nodes",
+        "Interface restored at 500 ms\n170/170 high receivers; 226/226 nodes",
+        "Left source\nsource 50; 168 receivers; 28 edges",
+        "Original geometry\nsource 61; 104 receivers; 32 edges",
+        "Right source\nsource 63; 170 receivers; 28 edges",
+        "−10",
+        "−20",
+        "−30",
+        "−40",
+        "−50",
+        "−60"
+      ]
+    },
+    {
+      "figure": "fig_mapa_regime",
+      "numeric_artists_before_sha256": "264231b6fd6abed8550fb84057dfc0a44fbac356696da5f267906a604124bffd",
+      "numeric_artists_after_sha256": "264231b6fd6abed8550fb84057dfc0a44fbac356696da5f267906a604124bffd",
+      "unchanged": true,
+      "translations": [
+        [
+          "Intacta",
+          "Intact"
+        ],
+        [
+          "Referência",
+          "Reference"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "Após restaurar a interface",
+          "After interface restoration"
+        ],
+        [
+          "Restauração (ms)",
+          "Restoration (ms)"
+        ],
+        [
+          "Diferença final em relação à intacta",
+          "Final difference from intact"
+        ],
+        [
+          "Máx. |ΔV por nó| (mV)",
+          "Max. |ΔV across nodes| (mV)"
+        ],
+        [
+          "B — Mapa discreto | estímulo fixo 0,9× | estados aos 5 s\n* Par estável e diferença >1 mV; a grade não determina fronteiras contínuas",
+          "B — Discrete grid | fixed 0.9× stimulus | states at 5 s\n* Stable pair with difference >1 mV; the grid does not define continuous boundaries"
+        ],
+        [
+          "Repouso",
+          "Rest"
+        ],
+        [
+          "Memória localizada",
+          "Localized memory"
+        ],
+        [
+          "Coletivo persistente",
+          "Persistent collective"
+        ],
+        [
+          "Transiente",
+          "Transient"
+        ],
+        [
+          "Indeterminada",
+          "Indeterminate"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0.0",
+        "10",
+        "100",
+        "20",
+        "200",
+        "3.4",
+        "3.6",
+        "3.8",
+        "30",
+        "350",
+        "4",
+        "4.2",
+        "4.4",
+        "4.6",
+        "40",
+        "50",
+        "500",
+        "55.6*",
+        "56.6*",
+        "57.6*",
+        "58.5*",
+        "60",
+        "After interface restoration",
+        "B — Discrete grid | fixed 0.9× stimulus | states at 5 s\n* Stable pair with difference >1 mV; the grid does not define continuous boundaries",
+        "Final difference from intact",
+        "Indeterminate",
+        "Intact",
+        "Localized memory",
+        "Max. |ΔV across nodes| (mV)",
+        "Persistent collective",
+        "Reference",
+        "Rest",
+        "Restoration (ms)",
+        "Transient",
+        "gD (S/m²)"
+      ]
+    },
+    {
+      "figure": "fig_mecanismo_alternativo",
+      "numeric_artists_before_sha256": "ae7f85306f260e8f172837c7651e88bc275dca45a313cf8210860ab1f140d39f",
+      "numeric_artists_after_sha256": "ae7f85306f260e8f172837c7651e88bc275dca45a313cf8210860ab1f140d39f",
+      "unchanged": true,
+      "translations": [
+        [
+          "Voltagem isolada (mV)",
+          "Isolated-cell voltage (mV)"
+        ],
+        [
+          "Corrente estacionária requerida (A/m²)",
+          "Required steady current (A/m²)"
+        ],
+        [
+          "Corrente sigmoidal + Kv",
+          "Sigmoidal current + Kv"
+        ],
+        [
+          "Equilíbrios estáveis",
+          "Stable equilibria"
+        ],
+        [
+          "Equilíbrio instável",
+          "Unstable equilibrium"
+        ],
+        [
+          "Voltagem isolada (mV)",
+          "Isolated-cell voltage (mV)"
+        ],
+        [
+          "Corrente estacionária requerida (A/m²)",
+          "Required steady current (A/m²)"
+        ],
+        [
+          "Corrente líquida cúbica (escalar)",
+          "Cubic net current (scalar)"
+        ],
+        [
+          "Equilíbrios estáveis",
+          "Stable equilibria"
+        ],
+        [
+          "Equilíbrio instável",
+          "Unstable equilibrium"
+        ],
+        [
+          "Mesmo estímulo absoluto ancorado no modelo anterior",
+          "Same absolute stimulus, anchored to conductance model"
+        ],
+        [
+          "Receptores altos aos 5 s (%)",
+          "High receivers at 5 s (%)"
+        ],
+        [
+          "Rede original; restauração 500 ms; números = receptores/104",
+          "Original network; restoration at 500 ms; counts out of 104"
+        ],
+        [
+          "Mesmo estímulo absoluto ancorado no modelo anterior",
+          "Same absolute stimulus, anchored to conductance model"
+        ],
+        [
+          "Receptores altos aos 5 s (%)",
+          "High receivers at 5 s (%)"
+        ],
+        [
+          "Rede original; restauração 500 ms; números = receptores/104",
+          "Original network; restoration at 500 ms; counts out of 104"
+        ],
+        [
+          "C — Bistabilidade isolada e seleção de estado na rede são perguntas distintas",
+          "C — Local bistability and network state selection are distinct questions"
+        ],
+        [
+          "Intacta",
+          "Intact"
+        ],
+        [
+          "Interface restaurada",
+          "Restored interface"
+        ]
+      ],
+      "final_labels": [
+        "0",
+        "0 → 0",
+        "0 → 104",
+        "0.00",
+        "0.01",
+        "0.02",
+        "0.03",
+        "0.04",
+        "0.05",
+        "0.10",
+        "0.15",
+        "0.9×",
+        "1.1×",
+        "100",
+        "104 → 104",
+        "120",
+        "1×",
+        "20",
+        "40",
+        "60",
+        "80",
+        "C — Local bistability and network state selection are distinct questions",
+        "Cubic net current (scalar)",
+        "High receivers at 5 s (%)",
+        "Intact",
+        "Isolated-cell voltage (mV)",
+        "Original network; restoration at 500 ms; counts out of 104",
+        "Required steady current (A/m²)",
+        "Restored interface",
+        "Same absolute stimulus, anchored to conductance model",
+        "Sigmoidal current + Kv",
+        "Stable equilibria",
+        "Unstable equilibrium",
+        "−0.01",
+        "−0.02",
+        "−0.03",
+        "−0.04",
+        "−0.05",
+        "−0.10",
+        "−0.15",
+        "−0.20",
+        "−20",
+        "−40",
+        "−60",
+        "−80"
+      ]
+    }
+  ]
+}

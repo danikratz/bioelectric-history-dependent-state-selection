@@ -1,0 +1,39 @@
+development bistable center 0.02 0.0 0.0
+development bistable center 0.05 0.0 0.0
+development bistable center 0.1 1.0 1.0
+development excitable center 0.02 0.0 0.0
+development excitable center 0.05 0.0 0.0
+development excitable center 0.1 0.0 0.0
+development excitable center 0.2 1.0 0.0
+{
+  "bistable": {
+    "mask": "center",
+    "mask_nodes": [
+      61
+    ],
+    "threshold_lower_A_m2": 0.08232421875000001,
+    "threshold_upper_A_m2": 0.08237304687500001,
+    "threshold_definition": ">=50% target nodes cross fixed bistable unstable root within 0.6 s; excitability separately checked",
+    "amplitude_factors": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "pulse_s": 0.02
+  },
+  "excitable": {
+    "mask": "center",
+    "mask_nodes": [
+      61
+    ],
+    "threshold_lower_A_m2": 0.12773437499999998,
+    "threshold_upper_A_m2": 0.12783203124999998,
+    "threshold_definition": ">=50% target nodes cross fixed bistable unstable root within 0.6 s; excitability separately checked",
+    "amplitude_factors": [
+      0.9,
+      1.0,
+      1.1
+    ],
+    "pulse_s": 0.02
+  }
+}

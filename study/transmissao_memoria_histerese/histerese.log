@@ -1,0 +1,93 @@
+{
+  "result": {
+    "fold_V": [
+      -0.04147740485790836,
+      -0.016749852495933346
+    ],
+    "fold_current_A_m2": [
+      0.0066928024113566955,
+      -0.17301835928487136
+    ],
+    "current_range_A_m2": [
+      -0.17801835928487136,
+      0.011692802411356696
+    ],
+    "rest_holds": [
+      {
+        "model": "kv",
+        "initial": "low",
+        "initial_V": -0.0509712277624096,
+        "final_V": -0.05149748280424294
+      },
+      {
+        "model": "kv",
+        "initial": "high",
+        "initial_V": 0.0075471511183145355,
+        "final_V": -0.05149748280424294
+      },
+      {
+        "model": "bistable",
+        "initial": "low",
+        "initial_V": -0.0509712277624096,
+        "final_V": -0.0509712277624096
+      },
+      {
+        "model": "bistable",
+        "initial": "high",
+        "initial_V": 0.0075471511183145355,
+        "final_V": 0.007547151118314441
+      }
+    ],
+    "scope": "Synthetic current sweep, including voltages outside physiological range; equilibrium roots, not sweep area alone, establish bistability"
+  },
+  "rows": [
+    {
+      "model": "kv",
+      "leg_duration_s": 0.2,
+      "rate_A_m2_s": 0.9485558084811403,
+      "loop_area_V_A_m2": 0.0032821471978154654,
+      "ascending_crossing_A_m2": null,
+      "descending_crossing_A_m2": null
+    },
+    {
+      "model": "kv",
+      "leg_duration_s": 1.0,
+      "rate_A_m2_s": 0.18971116169622806,
+      "loop_area_V_A_m2": 0.000679462603834486,
+      "ascending_crossing_A_m2": null,
+      "descending_crossing_A_m2": null
+    },
+    {
+      "model": "kv",
+      "leg_duration_s": 5.0,
+      "rate_A_m2_s": 0.03794223233924561,
+      "loop_area_V_A_m2": 0.0001363632744721218,
+      "ascending_crossing_A_m2": null,
+      "descending_crossing_A_m2": null
+    },
+    {
+      "model": "bistable",
+      "leg_duration_s": 0.2,
+      "rate_A_m2_s": 0.9485558084811403,
+      "loop_area_V_A_m2": 0.0033196905897759556,
+      "ascending_crossing_A_m2": null,
+      "descending_crossing_A_m2": null
+    },
+    {
+      "model": "bistable",
+      "leg_duration_s": 1.0,
+      "rate_A_m2_s": 0.18971116169622806,
+      "loop_area_V_A_m2": 0.024722589028773806,
+      "ascending_crossing_A_m2": 0.011218524507116134,
+      "descending_crossing_A_m2": -0.1742241360509468
+    },
+    {
+      "model": "bistable",
+      "leg_duration_s": 5.0,
+      "rate_A_m2_s": 0.03794223233924561,
+      "loop_area_V_A_m2": 0.023851305724819187,
+      "ascending_crossing_A_m2": 0.008325429291248632,
+      "descending_crossing_A_m2": -0.17332300803288972
+    }
+  ]
+}

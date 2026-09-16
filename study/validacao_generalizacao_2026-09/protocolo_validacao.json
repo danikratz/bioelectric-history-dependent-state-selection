@@ -1,0 +1,4525 @@
+{
+  "frozen_utc": "2026-09-15T13:58:30.658348+00:00",
+  "scope": "Final bounded validation: 3 blocks only; stop independent of sign. Local freeze, not external preregistration or blind validation.",
+  "geometries": [
+    {
+      "name": "historica",
+      "source": 61,
+      "direction_x": 1,
+      "geometry_seed": null,
+      "random_seed_sequence": [
+        20260915,
+        1,
+        0
+      ],
+      "nodes": 226,
+      "edges": 622,
+      "targets": 104,
+      "interface_edges": [
+        [
+          1,
+          116
+        ],
+        [
+          1,
+          119
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          5,
+          124
+        ],
+        [
+          11,
+          124
+        ],
+        [
+          11,
+          130
+        ],
+        [
+          18,
+          130
+        ],
+        [
+          18,
+          137
+        ],
+        [
+          26,
+          137
+        ],
+        [
+          26,
+          145
+        ],
+        [
+          34,
+          145
+        ],
+        [
+          34,
+          153
+        ],
+        [
+          43,
+          153
+        ],
+        [
+          43,
+          161
+        ],
+        [
+          52,
+          161
+        ],
+        [
+          52,
+          170
+        ],
+        [
+          61,
+          170
+        ],
+        [
+          61,
+          178
+        ],
+        [
+          70,
+          178
+        ],
+        [
+          70,
+          186
+        ],
+        [
+          79,
+          186
+        ],
+        [
+          79,
+          194
+        ],
+        [
+          88,
+          194
+        ],
+        [
+          88,
+          202
+        ],
+        [
+          96,
+          202
+        ],
+        [
+          96,
+          209
+        ],
+        [
+          103,
+          209
+        ],
+        [
+          103,
+          216
+        ],
+        [
+          109,
+          216
+        ],
+        [
+          109,
+          222
+        ],
+        [
+          113,
+          222
+        ],
+        [
+          113,
+          225
+        ]
+      ],
+      "random_edges": [
+        [
+          28,
+          139
+        ],
+        [
+          94,
+          199
+        ],
+        [
+          33,
+          151
+        ],
+        [
+          28,
+          138
+        ],
+        [
+          61,
+          70
+        ],
+        [
+          62,
+          170
+        ],
+        [
+          44,
+          162
+        ],
+        [
+          114,
+          222
+        ],
+        [
+          18,
+          130
+        ],
+        [
+          115,
+          118
+        ],
+        [
+          138,
+          146
+        ],
+        [
+          199,
+          206
+        ],
+        [
+          15,
+          127
+        ],
+        [
+          23,
+          134
+        ],
+        [
+          44,
+          161
+        ],
+        [
+          43,
+          161
+        ],
+        [
+          158,
+          167
+        ],
+        [
+          25,
+          33
+        ],
+        [
+          39,
+          149
+        ],
+        [
+          70,
+          177
+        ],
+        [
+          143,
+          151
+        ],
+        [
+          48,
+          166
+        ],
+        [
+          69,
+          78
+        ],
+        [
+          9,
+          16
+        ],
+        [
+          48,
+          165
+        ],
+        [
+          44,
+          153
+        ],
+        [
+          102,
+          207
+        ],
+        [
+          53,
+          170
+        ],
+        [
+          130,
+          137
+        ],
+        [
+          109,
+          222
+        ],
+        [
+          68,
+          175
+        ],
+        [
+          88,
+          193
+        ]
+      ],
+      "removed_weight": 28.8,
+      "source_degree": 6,
+      "degree_min": 2,
+      "degree_max": 6,
+      "median_edge_length": 9.583764814371617e-06
+    },
+    {
+      "name": "fonte_esquerda",
+      "source": 50,
+      "direction_x": 1,
+      "geometry_seed": null,
+      "random_seed_sequence": [
+        20260915,
+        1,
+        1
+      ],
+      "nodes": 226,
+      "edges": 622,
+      "targets": 168,
+      "interface_edges": [
+        [
+          3,
+          117
+        ],
+        [
+          3,
+          122
+        ],
+        [
+          9,
+          122
+        ],
+        [
+          9,
+          128
+        ],
+        [
+          16,
+          128
+        ],
+        [
+          16,
+          135
+        ],
+        [
+          24,
+          135
+        ],
+        [
+          24,
+          143
+        ],
+        [
+          32,
+          143
+        ],
+        [
+          32,
+          151
+        ],
+        [
+          41,
+          151
+        ],
+        [
+          41,
+          159
+        ],
+        [
+          50,
+          159
+        ],
+        [
+          50,
+          168
+        ],
+        [
+          59,
+          168
+        ],
+        [
+          59,
+          176
+        ],
+        [
+          68,
+          176
+        ],
+        [
+          68,
+          184
+        ],
+        [
+          77,
+          184
+        ],
+        [
+          77,
+          192
+        ],
+        [
+          86,
+          192
+        ],
+        [
+          86,
+          200
+        ],
+        [
+          94,
+          200
+        ],
+        [
+          94,
+          207
+        ],
+        [
+          101,
+          207
+        ],
+        [
+          101,
+          214
+        ],
+        [
+          107,
+          214
+        ],
+        [
+          107,
+          220
+        ]
+      ],
+      "random_edges": [
+        [
+          106,
+          211
+        ],
+        [
+          94,
+          206
+        ],
+        [
+          105,
+          218
+        ],
+        [
+          98,
+          105
+        ],
+        [
+          82,
+          188
+        ],
+        [
+          18,
+          137
+        ],
+        [
+          5,
+          123
+        ],
+        [
+          46,
+          163
+        ],
+        [
+          112,
+          221
+        ],
+        [
+          53,
+          161
+        ],
+        [
+          102,
+          108
+        ],
+        [
+          36,
+          147
+        ],
+        [
+          69,
+          185
+        ],
+        [
+          97,
+          210
+        ],
+        [
+          109,
+          113
+        ],
+        [
+          71,
+          178
+        ],
+        [
+          26,
+          145
+        ],
+        [
+          101,
+          206
+        ],
+        [
+          37,
+          147
+        ],
+        [
+          88,
+          194
+        ],
+        [
+          123,
+          129
+        ],
+        [
+          57,
+          66
+        ],
+        [
+          88,
+          201
+        ],
+        [
+          58,
+          175
+        ],
+        [
+          50,
+          167
+        ],
+        [
+          107,
+          214
+        ],
+        [
+          19,
+          138
+        ],
+        [
+          61,
+          177
+        ]
+      ],
+      "removed_weight": 25.2,
+      "source_degree": 6,
+      "degree_min": 2,
+      "degree_max": 6,
+      "median_edge_length": 9.583764814371617e-06
+    },
+    {
+      "name": "fonte_direita",
+      "source": 63,
+      "direction_x": -1,
+      "geometry_seed": null,
+      "random_seed_sequence": [
+        20260915,
+        1,
+        2
+      ],
+      "nodes": 226,
+      "edges": 622,
+      "targets": 170,
+      "interface_edges": [
+        [
+          7,
+          120
+        ],
+        [
+          7,
+          125
+        ],
+        [
+          13,
+          125
+        ],
+        [
+          13,
+          131
+        ],
+        [
+          20,
+          131
+        ],
+        [
+          20,
+          138
+        ],
+        [
+          28,
+          138
+        ],
+        [
+          28,
+          146
+        ],
+        [
+          36,
+          146
+        ],
+        [
+          36,
+          154
+        ],
+        [
+          45,
+          154
+        ],
+        [
+          45,
+          162
+        ],
+        [
+          54,
+          162
+        ],
+        [
+          54,
+          171
+        ],
+        [
+          63,
+          171
+        ],
+        [
+          63,
+          179
+        ],
+        [
+          72,
+          179
+        ],
+        [
+          72,
+          187
+        ],
+        [
+          81,
+          187
+        ],
+        [
+          81,
+          195
+        ],
+        [
+          90,
+          195
+        ],
+        [
+          90,
+          203
+        ],
+        [
+          98,
+          203
+        ],
+        [
+          98,
+          210
+        ],
+        [
+          105,
+          210
+        ],
+        [
+          105,
+          217
+        ],
+        [
+          111,
+          217
+        ],
+        [
+          111,
+          223
+        ]
+      ],
+      "random_edges": [
+        [
+          50,
+          159
+        ],
+        [
+          104,
+          217
+        ],
+        [
+          33,
+          143
+        ],
+        [
+          217,
+          223
+        ],
+        [
+          32,
+          150
+        ],
+        [
+          23,
+          134
+        ],
+        [
+          57,
+          165
+        ],
+        [
+          13,
+          126
+        ],
+        [
+          80,
+          194
+        ],
+        [
+          37,
+          46
+        ],
+        [
+          48,
+          165
+        ],
+        [
+          106,
+          218
+        ],
+        [
+          142,
+          150
+        ],
+        [
+          51,
+          60
+        ],
+        [
+          120,
+          125
+        ],
+        [
+          89,
+          202
+        ],
+        [
+          207,
+          214
+        ],
+        [
+          46,
+          156
+        ],
+        [
+          95,
+          102
+        ],
+        [
+          137,
+          145
+        ],
+        [
+          58,
+          175
+        ],
+        [
+          135,
+          143
+        ],
+        [
+          70,
+          186
+        ],
+        [
+          188,
+          196
+        ],
+        [
+          12,
+          124
+        ],
+        [
+          68,
+          77
+        ],
+        [
+          93,
+          198
+        ],
+        [
+          13,
+          132
+        ]
+      ],
+      "removed_weight": 25.2,
+      "source_degree": 6,
+      "degree_min": 2,
+      "degree_max": 6,
+      "median_edge_length": 9.583764814371617e-06
+    },
+    {
+      "name": "geometria_1701",
+      "source": 52,
+      "direction_x": 1,
+      "geometry_seed": 1701,
+      "random_seed_sequence": [
+        20260915,
+        1,
+        3
+      ],
+      "nodes": 226,
+      "edges": 622,
+      "targets": 110,
+      "interface_edges": [
+        [
+          1,
+          115
+        ],
+        [
+          1,
+          118
+        ],
+        [
+          5,
+          11
+        ],
+        [
+          5,
+          118
+        ],
+        [
+          5,
+          123
+        ],
+        [
+          11,
+          124
+        ],
+        [
+          11,
+          130
+        ],
+        [
+          18,
+          26
+        ],
+        [
+          18,
+          130
+        ],
+        [
+          18,
+          137
+        ],
+        [
+          26,
+          136
+        ],
+        [
+          26,
+          144
+        ],
+        [
+          34,
+          144
+        ],
+        [
+          34,
+          152
+        ],
+        [
+          43,
+          52
+        ],
+        [
+          43,
+          152
+        ],
+        [
+          43,
+          160
+        ],
+        [
+          52,
+          161
+        ],
+        [
+          52,
+          170
+        ],
+        [
+          61,
+          70
+        ],
+        [
+          61,
+          170
+        ],
+        [
+          61,
+          178
+        ],
+        [
+          70,
+          79
+        ],
+        [
+          70,
+          177
+        ],
+        [
+          70,
+          185
+        ],
+        [
+          79,
+          186
+        ],
+        [
+          79,
+          194
+        ],
+        [
+          88,
+          194
+        ],
+        [
+          88,
+          202
+        ],
+        [
+          96,
+          202
+        ],
+        [
+          96,
+          209
+        ],
+        [
+          103,
+          209
+        ],
+        [
+          103,
+          216
+        ],
+        [
+          109,
+          216
+        ],
+        [
+          109,
+          222
+        ],
+        [
+          113,
+          222
+        ],
+        [
+          113,
+          225
+        ]
+      ],
+      "random_edges": [
+        [
+          71,
+          186
+        ],
+        [
+          41,
+          151
+        ],
+        [
+          54,
+          171
+        ],
+        [
+          159,
+          168
+        ],
+        [
+          46,
+          55
+        ],
+        [
+          107,
+          219
+        ],
+        [
+          48,
+          166
+        ],
+        [
+          19,
+          137
+        ],
+        [
+          35,
+          44
+        ],
+        [
+          81,
+          187
+        ],
+        [
+          85,
+          190
+        ],
+        [
+          18,
+          130
+        ],
+        [
+          109,
+          222
+        ],
+        [
+          99,
+          211
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          116,
+          119
+        ],
+        [
+          39,
+          149
+        ],
+        [
+          43,
+          52
+        ],
+        [
+          20,
+          131
+        ],
+        [
+          185,
+          193
+        ],
+        [
+          31,
+          40
+        ],
+        [
+          64,
+          181
+        ],
+        [
+          41,
+          150
+        ],
+        [
+          23,
+          133
+        ],
+        [
+          14,
+          126
+        ],
+        [
+          59,
+          175
+        ],
+        [
+          102,
+          215
+        ],
+        [
+          62,
+          171
+        ],
+        [
+          86,
+          191
+        ],
+        [
+          27,
+          35
+        ],
+        [
+          15,
+          133
+        ],
+        [
+          104,
+          217
+        ],
+        [
+          46,
+          156
+        ],
+        [
+          113,
+          222
+        ],
+        [
+          221,
+          224
+        ],
+        [
+          171,
+          179
+        ],
+        [
+          11,
+          123
+        ]
+      ],
+      "removed_weight": 33.300000000000004,
+      "source_degree": 6,
+      "degree_min": 3,
+      "degree_max": 7,
+      "median_edge_length": 9.613994238829725e-06
+    },
+    {
+      "name": "geometria_2701",
+      "source": 61,
+      "direction_x": 1,
+      "geometry_seed": 2701,
+      "random_seed_sequence": [
+        20260915,
+        1,
+        4
+      ],
+      "nodes": 226,
+      "edges": 622,
+      "targets": 109,
+      "interface_edges": [
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          115
+        ],
+        [
+          1,
+          118
+        ],
+        [
+          5,
+          119
+        ],
+        [
+          5,
+          124
+        ],
+        [
+          11,
+          124
+        ],
+        [
+          11,
+          130
+        ],
+        [
+          18,
+          130
+        ],
+        [
+          18,
+          137
+        ],
+        [
+          26,
+          137
+        ],
+        [
+          26,
+          145
+        ],
+        [
+          34,
+          43
+        ],
+        [
+          34,
+          145
+        ],
+        [
+          34,
+          153
+        ],
+        [
+          43,
+          152
+        ],
+        [
+          43,
+          160
+        ],
+        [
+          52,
+          61
+        ],
+        [
+          52,
+          160
+        ],
+        [
+          52,
+          169
+        ],
+        [
+          61,
+          70
+        ],
+        [
+          61,
+          170
+        ],
+        [
+          61,
+          178
+        ],
+        [
+          70,
+          79
+        ],
+        [
+          70,
+          177
+        ],
+        [
+          70,
+          185
+        ],
+        [
+          79,
+          186
+        ],
+        [
+          79,
+          194
+        ],
+        [
+          88,
+          194
+        ],
+        [
+          88,
+          202
+        ],
+        [
+          96,
+          202
+        ],
+        [
+          96,
+          209
+        ],
+        [
+          103,
+          109
+        ],
+        [
+          103,
+          209
+        ],
+        [
+          103,
+          216
+        ],
+        [
+          109,
+          113
+        ],
+        [
+          109,
+          215
+        ],
+        [
+          109,
+          221
+        ],
+        [
+          113,
+          225
+        ]
+      ],
+      "random_edges": [
+        [
+          10,
+          17
+        ],
+        [
+          77,
+          192
+        ],
+        [
+          41,
+          158
+        ],
+        [
+          105,
+          210
+        ],
+        [
+          53,
+          161
+        ],
+        [
+          51,
+          169
+        ],
+        [
+          14,
+          21
+        ],
+        [
+          101,
+          206
+        ],
+        [
+          135,
+          143
+        ],
+        [
+          107,
+          214
+        ],
+        [
+          13,
+          132
+        ],
+        [
+          167,
+          175
+        ],
+        [
+          98,
+          210
+        ],
+        [
+          36,
+          45
+        ],
+        [
+          121,
+          127
+        ],
+        [
+          149,
+          157
+        ],
+        [
+          110,
+          222
+        ],
+        [
+          0,
+          118
+        ],
+        [
+          51,
+          160
+        ],
+        [
+          45,
+          163
+        ],
+        [
+          86,
+          192
+        ],
+        [
+          22,
+          133
+        ],
+        [
+          153,
+          161
+        ],
+        [
+          48,
+          166
+        ],
+        [
+          2,
+          119
+        ],
+        [
+          23,
+          133
+        ],
+        [
+          95,
+          207
+        ],
+        [
+          140,
+          148
+        ],
+        [
+          54,
+          162
+        ],
+        [
+          98,
+          211
+        ],
+        [
+          204,
+          211
+        ],
+        [
+          37,
+          148
+        ],
+        [
+          209,
+          216
+        ],
+        [
+          32,
+          41
+        ],
+        [
+          163,
+          172
+        ],
+        [
+          82,
+          188
+        ],
+        [
+          90,
+          98
+        ],
+        [
+          132,
+          139
+        ]
+      ],
+      "removed_weight": 34.2,
+      "source_degree": 6,
+      "degree_min": 2,
+      "degree_max": 7,
+      "median_edge_length": 9.600519451810972e-06
+    }
+  ],
+  "geometry_rule": "Original + two objective quantile sources + Gaussian jitter 0.1 median original edge length seeds1701/2701; Delaunay minimum spanning tree plus shortest remaining edges to 622; no rejection/resampling. Argmin ties use smallest node index.",
+  "receiver_rule": "direction_x*(x-x_source)>0.1 median source-neighbour distance",
+  "interface_weight": 0.1,
+  "source_stimulus": "Single source node",
+  "anchor_A_m2": 0.08237304687500001,
+  "amplitude_factors_block1_and3": [
+    0.9,
+    1.0,
+    1.1
+  ],
+  "amplitude_factor_block2": 0.9,
+  "gD_grid": [
+    3.4,
+    3.6,
+    3.8,
+    4.0,
+    4.2,
+    4.4,
+    4.6
+  ],
+  "restoration_grid_s": [
+    0.02,
+    0.05,
+    0.1,
+    0.2,
+    0.35,
+    0.5
+  ],
+  "constants": {
+    "C": 0.01,
+    "GL": 1.0,
+    "EL": -0.05,
+    "EK": -0.07967507185138671,
+    "GK": 2.0,
+    "ED": 0.05,
+    "tauK": 0.0148,
+    "Gj": 1.0
+  },
+  "alternative": {
+    "formula": "dV/dt=(V-L)*(V-U)*(H-V)/(tau*(H-L)^2) - Gj*Laplacian(V)/C + I/C",
+    "L_V": -0.05,
+    "U_V": -0.035,
+    "H_V": 0.01,
+    "tau_s": 0.003125,
+    "interpretation": "Scalar phenomenological NET membrane current, replaces leak+Kv+sigmoid. No channel identity; different state dimension. Low isolated slope -80/s chosen near historical -79.22/s before network tests. Zero-current roots chosen as rounded similar voltage scale; not fitting network.",
+    "ablation": "Remove cubic additional current Jadd=GL*(V-EL)+C*cubic_drift(V), leaving pure leak. This ablation differs from Kv control. No retuning if negative."
+  },
+  "isolated_tests": {
+    "holds_initial_V": [
+      -0.0501,
+      -0.0499,
+      0.0099,
+      0.0101
+    ],
+    "hold_s": 1.0,
+    "ramp_legs_s": [
+      1.0,
+      5.0
+    ],
+    "ramp_current_rule": "Analytic fold-current min-0.005 to max+0.005 A/m2; start lowest exact polynomial root; triangular sweep.",
+    "conditions": 6,
+    "analytic_fold_and_linear_stability_before_network": true
+  },
+  "primary_solver": {
+    "method": "DOP853",
+    "rtol": 1e-10,
+    "atol": 1e-12,
+    "max_step": 0.0025
+  },
+  "refined_solver": {
+    "method": "DOP853",
+    "rtol": 1e-12,
+    "atol": 1e-14,
+    "max_step": 0.001
+  },
+  "radau_solver": {
+    "method": "Radau",
+    "rtol": 1e-11,
+    "atol": 1e-13,
+    "max_step": 0.0025
+  },
+  "sample_s": 0.001,
+  "voltage_tolerance_V": 2e-05,
+  "radau_fixed_ids": [
+    "v0000",
+    "v0001",
+    "v0013",
+    "v0014",
+    "v0026",
+    "v0027",
+    "v0039",
+    "v0040",
+    "v0052",
+    "v0053",
+    "v0065",
+    "v0066",
+    "v0068",
+    "v0071",
+    "v0086",
+    "v0088",
+    "v0105",
+    "v0106",
+    "v0108",
+    "v0111",
+    "v0112",
+    "v0113",
+    "v0114",
+    "v0115",
+    "v0116",
+    "v0117",
+    "v0118",
+    "v0119",
+    "v0120",
+    "v0121",
+    "v0122",
+    "v0123",
+    "v0124",
+    "v0125",
+    "v0126",
+    "v0127",
+    "v0128",
+    "v0129",
+    "v0130",
+    "v0131",
+    "v0132",
+    "v0133",
+    "v0134",
+    "v0135"
+  ],
+  "numerical_rule": "Every network trajectory refined; fixed Radau IDs and every failed refinement. Compare max voltage error on same sampled grid, final/ever high counts and category. All isolated tests also refined and Radau. Preserve failures. At most one correction per failed case: DOP853 rtol3e-14 atol3e-16 max_step0.0005 plus Radau rtol1e-12 atol1e-14 max_step0.001; compare with preceding refined and reference without relaxing criterion. Otherwise indeterminate.",
+  "classification": {
+    "high": "V strictly above isolated middle root of actual bistable mechanism/gD; ablations use historical gD4 root",
+    "stationary_max_dV_V_s": 1e-05,
+    "stationary_max_gate_derivative_s_inv": 0.0001,
+    "stable_max_real_eigen_s_inv": -1e-06,
+    "rest_max_departure_V": 0.0001,
+    "collective_min_target_fraction": 0.5,
+    "categories": [
+      "repouso",
+      "memoria_localizada",
+      "recrutamento_coletivo",
+      "transiente_sem_persistencia",
+      "indeterminada"
+    ],
+    "rule": "Require finite valid state, stationary residual and stable full Jacobian. Within rest tolerance: transient if any node ever above high threshold, else rest. Otherwise collective if >=50% targets high, else localized; record all high counts and full state. Unresolved precision, instability or nonstationarity: indeterminate.",
+    "history_difference": "Same final graph, both numerically accepted stationary stable states, max per-node final voltage difference >0.001V; report category and continuous differences separately."
+  },
+  "horizon_rule": "All networks run to5s. Compare 2s/5s categories and states. No extension beyond5s; unresolved dynamics remain indeterminate.",
+  "conditions": [
+    {
+      "id": "v0000",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1,
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0001",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1,
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0002",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0003",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0004",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0005",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0006",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0007",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0008",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0009",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0010",
+      "geometry": "historica",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0011",
+      "geometry": "historica",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0012",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0013",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0014",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0015",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0016",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0017",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0018",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0019",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0020",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0021",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0022",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0023",
+      "geometry": "fonte_esquerda",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0024",
+      "geometry": "fonte_esquerda",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0025",
+      "geometry": "fonte_esquerda",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0026",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0027",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0028",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0029",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0030",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0031",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0032",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0033",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0034",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0035",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0036",
+      "geometry": "fonte_direita",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0037",
+      "geometry": "fonte_direita",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0038",
+      "geometry": "fonte_direita",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0039",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0040",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0041",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0042",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0043",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0044",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0045",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0046",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0047",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0048",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0049",
+      "geometry": "geometria_1701",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0050",
+      "geometry": "geometria_1701",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0051",
+      "geometry": "geometria_1701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0052",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0053",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0054",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0055",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0056",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0057",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0058",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0059",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0060",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0061",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0062",
+      "geometry": "geometria_2701",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0063",
+      "geometry": "geometria_2701",
+      "model": "kv",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0064",
+      "geometry": "geometria_2701",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        1
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0065",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0066",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0067",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0068",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0069",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0070",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0071",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0072",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0073",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0074",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0075",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0076",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0077",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0078",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0079",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0080",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0081",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0082",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0083",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0084",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0085",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 3.8,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0086",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0087",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0088",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0089",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0090",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0091",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0092",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0093",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0094",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0095",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0096",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0097",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.2,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0098",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0099",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0100",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0101",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0102",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0103",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0104",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.4,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0105",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0106",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0107",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0108",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.1,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0109",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0110",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.35,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0111",
+      "geometry": "historica",
+      "model": "bistable",
+      "gd": 4.6,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        2
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0112",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0113",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0114",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0115",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0116",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0117",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0118",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0119",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0120",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0121",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0122",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0123",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0124",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0125",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.0,
+      "amplitude_A_m2": 0.08237304687500001,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0126",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0127",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.02,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0128",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.05,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0129",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.2,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0130",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0131",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "random",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": []
+    },
+    {
+      "id": "v0132",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 1.1,
+      "amplitude_A_m2": 0.09061035156250001,
+      "history": "interface",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "never_restore"
+      ]
+    },
+    {
+      "id": "v0133",
+      "geometry": "historica",
+      "model": "cubic",
+      "gd": 0.0,
+      "factor": 0.0,
+      "amplitude_A_m2": 0.0,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "no_stimulus"
+      ]
+    },
+    {
+      "id": "v0134",
+      "geometry": "historica",
+      "model": "leak",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "original",
+      "restore_s": null,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    },
+    {
+      "id": "v0135",
+      "geometry": "historica",
+      "model": "leak",
+      "gd": 0.0,
+      "factor": 0.9,
+      "amplitude_A_m2": 0.0741357421875,
+      "history": "interface",
+      "restore_s": 0.5,
+      "pulse_s": 0.02,
+      "end_s": 5.0,
+      "blocks": [
+        3
+      ],
+      "controls": [
+        "no_additional_current"
+      ]
+    }
+  ],
+  "memberships": [
+    {
+      "block": 1,
+      "id": "v0000",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0001",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0002",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0003",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0004",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0005",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0006",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0007",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0008",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0009",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 1,
+      "id": "v0010",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0011",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0012",
+      "control": "never_restore"
+    },
+    {
+      "block": 1,
+      "id": "v0013",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0014",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0015",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0016",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0017",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0018",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0019",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0020",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0021",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0022",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 1,
+      "id": "v0023",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0024",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0025",
+      "control": "never_restore"
+    },
+    {
+      "block": 1,
+      "id": "v0026",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0027",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0028",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0029",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0030",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0031",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0032",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0033",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0034",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0035",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 1,
+      "id": "v0036",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0037",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0038",
+      "control": "never_restore"
+    },
+    {
+      "block": 1,
+      "id": "v0039",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0040",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0041",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0042",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0043",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0044",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0045",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0046",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0047",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0048",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 1,
+      "id": "v0049",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0050",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0051",
+      "control": "never_restore"
+    },
+    {
+      "block": 1,
+      "id": "v0052",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0053",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0054",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0055",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0056",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0057",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0058",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0059",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0060",
+      "control": null
+    },
+    {
+      "block": 1,
+      "id": "v0061",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 1,
+      "id": "v0062",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0063",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 1,
+      "id": "v0064",
+      "control": "never_restore"
+    },
+    {
+      "block": 2,
+      "id": "v0065",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0066",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0067",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0068",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0069",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0070",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0071",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0072",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0073",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0074",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0075",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0076",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0077",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0078",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0079",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0080",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0081",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0082",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0083",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0084",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0085",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0000",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0086",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0087",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0088",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0089",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0090",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0001",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0091",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0092",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0093",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0094",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0095",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0096",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0097",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0098",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0099",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0100",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0101",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0102",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0103",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0104",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0105",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0106",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0107",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0108",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0109",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0110",
+      "control": null
+    },
+    {
+      "block": 2,
+      "id": "v0111",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0112",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0113",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0114",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0115",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0116",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0117",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0118",
+      "control": "never_restore"
+    },
+    {
+      "block": 3,
+      "id": "v0119",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0120",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0121",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0122",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0123",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0124",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0125",
+      "control": "never_restore"
+    },
+    {
+      "block": 3,
+      "id": "v0126",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0127",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0128",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0129",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0130",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0131",
+      "control": null
+    },
+    {
+      "block": 3,
+      "id": "v0132",
+      "control": "never_restore"
+    },
+    {
+      "block": 3,
+      "id": "v0133",
+      "control": "no_stimulus"
+    },
+    {
+      "block": 3,
+      "id": "v0134",
+      "control": "no_additional_current"
+    },
+    {
+      "block": 3,
+      "id": "v0135",
+      "control": "no_additional_current"
+    }
+  ],
+  "counts": {
+    "network_unique": 136,
+    "block_memberships": 138,
+    "by_block": {
+      "1": 65,
+      "2": 49,
+      "3": 24
+    },
+    "isolated": 6,
+    "total_distinct_initial_conditions": 142,
+    "fixed_network_Radau": 44
+  },
+  "source_sha256": {
+    "transmissao_memoria_histerese/core.py": "c245c9afd3e4c49d85e17f4d3bc4f394f33bbd2a089a998f9d4943a6e4e18af1",
+    "transmissao_memoria_histerese/desenvolvimento.json": "d012bca9d41e673b6388222e293e6a5d9e35a078e54caca8c8be2b7e8481006a",
+    "primeiro_parametro_publicado/plano.json": "55b113e8760b7349733dc076d749090b55f0f7aa3de0150ba64d4492bdbc1f0d",
+    "sorteio_independente_32/topologias.npz": "23bbb212419667c077487f45f15f9e214d45f266585e884cd42861d400f3c3f5"
+  },
+  "geometry_sha256": "4b6d9eb21e0088cc1c49cb71db2f0189afe8206438209159b2e7a4c9cecaf449",
+  "environment": {
+    "python": "3.9.6",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "platform": "macOS-26.6.2-arm64-arm-64bit",
+    "executable": "python3"
+  },
+  "no_pvalues": true,
+  "no_additional_blocks": true
+}

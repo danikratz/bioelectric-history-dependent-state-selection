@@ -1,0 +1,17 @@
+{
+  "scope": "Figure reproduction from frozen data; no ODE integration",
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "matplotlib": "3.7.5",
+  "original_scientific_python_files": 19,
+  "copied_scientific_source_input_files": 95,
+  "copied_source_input_hashes_unchanged": true,
+  "validation_endpoint_arrays": 136,
+  "endpoint_extraction_exact": true,
+  "regenerated_pngs": 10,
+  "all_pngs_byte_identical_to_release": true,
+  "eight_numeric_artist_fingerprints_match": true,
+  "complete_simulation_campaign_rerun": false,
+  "biological_validation": false
+}

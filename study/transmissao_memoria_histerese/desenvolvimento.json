@@ -1,0 +1,63 @@
+{
+  "equilibria": {
+    "kv": [
+      {
+        "V": -0.05149748280424363,
+        "max_real_eigenvalue_s_inv": -86.44100687291578
+      }
+    ],
+    "bistable": [
+      {
+        "V": -0.0509712277624096,
+        "max_real_eigenvalue_s_inv": -79.21984606470241
+      },
+      {
+        "V": -0.03601657155330891,
+        "max_real_eigenvalue_s_inv": 337.71067871857235
+      },
+      {
+        "V": 0.007547151118314187,
+        "max_real_eigenvalue_s_inv": -104.27006821823181
+      }
+    ],
+    "excitable": [
+      {
+        "V": -0.05100689865729703,
+        "max_real_eigenvalue_s_inv": -10.090276936017544
+      }
+    ]
+  },
+  "selected": {
+    "bistable": {
+      "mask": "center",
+      "mask_nodes": [
+        61
+      ],
+      "threshold_lower_A_m2": 0.08232421875000001,
+      "threshold_upper_A_m2": 0.08237304687500001,
+      "threshold_definition": ">=50% target nodes cross fixed bistable unstable root within 0.6 s; excitability separately checked",
+      "amplitude_factors": [
+        0.9,
+        1.0,
+        1.1
+      ],
+      "pulse_s": 0.02
+    },
+    "excitable": {
+      "mask": "center",
+      "mask_nodes": [
+        61
+      ],
+      "threshold_lower_A_m2": 0.12773437499999998,
+      "threshold_upper_A_m2": 0.12783203124999998,
+      "threshold_definition": ">=50% target nodes cross fixed bistable unstable root within 0.6 s; excitability separately checked",
+      "amplitude_factors": [
+        0.9,
+        1.0,
+        1.1
+      ],
+      "pulse_s": 0.02
+    }
+  },
+  "classification_threshold_V": -0.03601657155330891
+}

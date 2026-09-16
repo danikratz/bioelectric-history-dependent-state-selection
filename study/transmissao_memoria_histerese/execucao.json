@@ -1,0 +1,8 @@
+{
+  "conditions": 487,
+  "finished_utc": "2026-09-14T21:15:22.592679+00:00",
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "protocol_sha256": "5cbb0be57d3d0a06bf0f8ff971c9db2ded15500a959596ed44f1eb7db40680ba"
+}

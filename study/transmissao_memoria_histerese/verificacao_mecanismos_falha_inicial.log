@@ -1,0 +1,4 @@
+  File "$PROJECT_ROOT/research/bioeletricidade-vmem-2026-09-08/transmissao_memoria_histerese/verificar_mecanismos.py", line 17
+    numerical[:,k]=(rhs(0,y+e)-rhs(0,y-e))/(2e[k])
+                                             ^
+SyntaxError: invalid syntax

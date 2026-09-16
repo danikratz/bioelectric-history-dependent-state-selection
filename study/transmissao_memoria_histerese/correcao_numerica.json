@@ -1,0 +1,56 @@
+{
+  "original_failed_cases": [
+    "case0148",
+    "case0149",
+    "case0150",
+    "case0151",
+    "case0405",
+    "case0414"
+  ],
+  "checks": [
+    {
+      "id": "case0148",
+      "fine_vs_high_V": 2.0993710544633948e-07,
+      "radau_vs_high_V": 2.267048760523638e-09,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0149",
+      "fine_vs_high_V": 2.1017153917571307e-07,
+      "radau_vs_high_V": 2.2768039883991342e-09,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0150",
+      "fine_vs_high_V": 2.0993710544633948e-07,
+      "radau_vs_high_V": 2.267048760523638e-09,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0151",
+      "fine_vs_high_V": 2.0993710544633948e-07,
+      "radau_vs_high_V": 2.267048760523638e-09,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0405",
+      "fine_vs_high_V": 2.0993710544633948e-07,
+      "radau_vs_high_V": 2.267048760523638e-09,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0414",
+      "fine_vs_high_V": 1.9530690693013442e-07,
+      "radau_vs_high_V": 2.111248563127499e-09,
+      "classification_agrees": true,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "method": "No tolerance relaxation, no changed model/stimulus/selection. Original outputs retained; corrected higher-precision outputs separately labelled."
+}

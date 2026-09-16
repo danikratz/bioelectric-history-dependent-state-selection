@@ -1,0 +1,17 @@
+{
+  "completed_utc": "2026-09-15T15:23:39.907885+00:00",
+  "required_outputs_present": true,
+  "report_13_sections_and_recommendation": true,
+  "visual_inspection": [
+    "fig_generalizacao_geometrias.png",
+    "fig_mapa_regime.png",
+    "fig_mecanismo_alternativo.png"
+  ],
+  "figure_c_legend_overlap_corrected": true,
+  "scientific_results_unchanged_by_presentation_fix": true,
+  "frozen_manifest_and_protocol_unchanged": true,
+  "previous_files_unchanged": 584,
+  "simulation_campaign_closed": true,
+  "publication_recommendation": "B",
+  "passed": true
+}

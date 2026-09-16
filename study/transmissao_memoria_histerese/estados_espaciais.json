@@ -1,0 +1,32 @@
+{
+  "witnesses": [
+    {
+      "id": "case0147",
+      "graph_history": "original",
+      "same_final_graph": "original",
+      "final_voltage_min_V": -0.050952853100988266,
+      "final_voltage_max_V": -0.012416902718127648,
+      "nodes_above_unstable_root": 1,
+      "targets_above_unstable_root": 0,
+      "max_real_eigenvalue_s_inv": -59.81627778121975,
+      "final_voltage_residual_V_s": 1.1459149601433793e-12,
+      "perturbation_return_error_V": 1.2073675392798577e-15,
+      "passed": true
+    },
+    {
+      "id": "case0159",
+      "graph_history": "interface_10pct",
+      "same_final_graph": "original",
+      "final_voltage_min_V": 0.007547151107695403,
+      "final_voltage_max_V": 0.007547151130355702,
+      "nodes_above_unstable_root": 226,
+      "targets_above_unstable_root": 104,
+      "max_real_eigenvalue_s_inv": -80.90641533184348,
+      "final_voltage_residual_V_s": 1.8142490287864632e-08,
+      "perturbation_return_error_V": 1.7793466353110965e-11,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "scope": "Two inspected histories; not a global attractor census"
+}

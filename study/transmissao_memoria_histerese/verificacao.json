@@ -1,0 +1,4550 @@
+{
+  "refinement": [
+    {
+      "id": "case0000",
+      "max_voltage_difference_V": 4.3052628198592124e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020383170118452865,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0001",
+      "max_voltage_difference_V": 1.768056437367882e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004078442942735683,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0002",
+      "max_voltage_difference_V": 1.1765411769837364e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01692938442575398,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0003",
+      "max_voltage_difference_V": 3.374363961861082e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.033838653799661556,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0004",
+      "max_voltage_difference_V": 2.1886253712133374e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0027134170474119035,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0005",
+      "max_voltage_difference_V": 3.375866523824822e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.053940306886594847,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0006",
+      "max_voltage_difference_V": 1.2295469642431556e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.003668945953307079,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0007",
+      "max_voltage_difference_V": 2.641801603864291e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0007344204278406097,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0008",
+      "max_voltage_difference_V": 2.8218331282747755e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0033547829961649844,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0009",
+      "max_voltage_difference_V": 1.8045029706592608e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.006704138226648615,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0010",
+      "max_voltage_difference_V": 3.824354374848404e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.000647694298888668,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0011",
+      "max_voltage_difference_V": 6.756781911754217e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01283922351578981,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0012",
+      "max_voltage_difference_V": 9.183172548776763e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020332880528432795,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0013",
+      "max_voltage_difference_V": 1.7430661219952626e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0040683844666281055,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0014",
+      "max_voltage_difference_V": 1.1551269524234797e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01682017041303857,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0015",
+      "max_voltage_difference_V": 1.450821220105869e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03362023544052628,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0016",
+      "max_voltage_difference_V": 2.2081737965917725e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0026871903995168145,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0017",
+      "max_voltage_difference_V": 1.5777281633932994e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05341559531397977,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0018",
+      "max_voltage_difference_V": 4.342747605967645e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020382963314018177,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0019",
+      "max_voltage_difference_V": 1.7556938333718186e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004078402108670387,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0020",
+      "max_voltage_difference_V": 1.165905198774464e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01692834240602653,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0021",
+      "max_voltage_difference_V": 3.3743603952696155e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.033836529313442665,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0022",
+      "max_voltage_difference_V": 2.198361104266411e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0027123032596346186,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0023",
+      "max_voltage_difference_V": 3.375899462754184e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.053916030902802226,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0024",
+      "max_voltage_difference_V": 8.999040838897354e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020379294157830963,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0025",
+      "max_voltage_difference_V": 1.6447521747342542e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004077668892744912,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0026",
+      "max_voltage_difference_V": 1.0592490773397856e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.016918300979849865,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0027",
+      "max_voltage_difference_V": 1.3783962790614446e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0338164091040552,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0028",
+      "max_voltage_difference_V": 2.2464274399003337e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0027114090844909677,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0029",
+      "max_voltage_difference_V": 1.590359878511638e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05389631454386784,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0030",
+      "max_voltage_difference_V": 1.0298778288508892e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -2.0816681711721685e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0031",
+      "max_voltage_difference_V": 2.5674382758689163e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -2.0816681711721685e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0032",
+      "max_voltage_difference_V": 2.7443935041171486e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0033",
+      "max_voltage_difference_V": 1.906794701300729e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -1.3877787807814457e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0034",
+      "max_voltage_difference_V": 3.6152378452003475e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 2.0032586700580168e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0035",
+      "max_voltage_difference_V": 9.79135474088455e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 3.755329380794592e-10,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0036",
+      "max_voltage_difference_V": 3.3962280388682986e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029417701408879227,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0037",
+      "max_voltage_difference_V": 8.900488523283512e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005883826508477907,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0038",
+      "max_voltage_difference_V": 7.407433320893997e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0225615672875476,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0039",
+      "max_voltage_difference_V": 1.1836401229287086e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04511773862924534,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0040",
+      "max_voltage_difference_V": 9.395629950448292e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.003411027543885614,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0041",
+      "max_voltage_difference_V": 4.116310301435777e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.06812985943763228,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0042",
+      "max_voltage_difference_V": 1.2974021068590247e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.008038766239962247,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0043",
+      "max_voltage_difference_V": 1.080889183782685e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0016081032429143827,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0044",
+      "max_voltage_difference_V": 2.1773727180984803e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0071398840050390655,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0045",
+      "max_voltage_difference_V": 1.7196536419850084e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.014277345739943659,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0046",
+      "max_voltage_difference_V": 8.046235323161399e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.001282468539053061,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0047",
+      "max_voltage_difference_V": 2.451639775462311e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0256008239545788,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0048",
+      "max_voltage_difference_V": 1.2256244578262576e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02921095507431304,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0049",
+      "max_voltage_difference_V": 3.2717343514260255e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005842477151934977,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0050",
+      "max_voltage_difference_V": 1.2618898403288226e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.022274279329853597,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0051",
+      "max_voltage_difference_V": 4.5516994966882107e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04454313546858879,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0052",
+      "max_voltage_difference_V": 8.198691157923488e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0033733283818226933,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0053",
+      "max_voltage_difference_V": 5.175990808667374e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.06737440630946723,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0054",
+      "max_voltage_difference_V": 1.2699184782916095e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02941620067255235,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0055",
+      "max_voltage_difference_V": 7.978873252378893e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005883526847626219,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0056",
+      "max_voltage_difference_V": 6.974782269797419e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.022537887925257183,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0057",
+      "max_voltage_difference_V": 4.965868756340308e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04507031220648411,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0058",
+      "max_voltage_difference_V": 9.071903380591939e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0034032507270354007,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0059",
+      "max_voltage_difference_V": 3.815438721910258e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.06797266613083747,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0060",
+      "max_voltage_difference_V": 4.117641510953396e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02939732482382107,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0061",
+      "max_voltage_difference_V": 7.491820540328487e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005879752000260974,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0062",
+      "max_voltage_difference_V": 6.769364799957822e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.022549197039083146,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0063",
+      "max_voltage_difference_V": 1.065100961386567e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04509290742959332,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0064",
+      "max_voltage_difference_V": 8.888448137234217e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0034118968030641406,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0065",
+      "max_voltage_difference_V": 4.791664465902956e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.06814471609525863,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0066",
+      "max_voltage_difference_V": 1.2067291560446947e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 3.5455666180794765e-10,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0067",
+      "max_voltage_difference_V": 9.239949038536421e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 7.222694664577034e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0068",
+      "max_voltage_difference_V": 3.683872368195895e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.8734527817976243e-09,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0069",
+      "max_voltage_difference_V": 1.0187572926922961e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 2.8345381597461028e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0070",
+      "max_voltage_difference_V": 1.0948927670062503e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 7.513434319150747e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0071",
+      "max_voltage_difference_V": 1.1868509297574548e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 7.512809818699395e-10,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0072",
+      "max_voltage_difference_V": 4.6121002433840985e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02044547943627628,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0073",
+      "max_voltage_difference_V": 1.7545968428178682e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0040895727176012975,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0074",
+      "max_voltage_difference_V": 1.1504721689203912e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01709907698139307,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0075",
+      "max_voltage_difference_V": 3.3906894583712877e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03419232073606504,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0076",
+      "max_voltage_difference_V": 2.240717104917689e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0028510437977274927,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0077",
+      "max_voltage_difference_V": 3.4029930887080617e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.056849927293572966,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0078",
+      "max_voltage_difference_V": 1.262758023840016e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0037019661046772123,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0079",
+      "max_voltage_difference_V": 2.781310008692639e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.000740612985147826,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0080",
+      "max_voltage_difference_V": 1.2713751863790979e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0033963840825393388,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0081",
+      "max_voltage_difference_V": 4.534205864936691e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.006791188747315435,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0082",
+      "max_voltage_difference_V": 4.137690134964345e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0006894550132127697,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0083",
+      "max_voltage_difference_V": 1.9856616698121776e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.013727659343765186,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0084",
+      "max_voltage_difference_V": 9.473655790404045e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020395116487423315,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0085",
+      "max_voltage_difference_V": 1.727539708507031e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004079499985321089,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0086",
+      "max_voltage_difference_V": 2.669272539113088e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.016988837454913475,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0087",
+      "max_voltage_difference_V": 5.419019268038117e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03397184404183018,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0088",
+      "max_voltage_difference_V": 6.764836898986992e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.002823004851298938,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0089",
+      "max_voltage_difference_V": 3.402613399372534e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05628895199421419,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0090",
+      "max_voltage_difference_V": 9.503042616709756e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02044527481560865,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0091",
+      "max_voltage_difference_V": 1.7412143116235512e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004089531930775991,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0092",
+      "max_voltage_difference_V": 1.800932881990125e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.017098040620215638,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0093",
+      "max_voltage_difference_V": 3.653756394661478e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03419023650599179,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0094",
+      "max_voltage_difference_V": 4.568149102046615e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0028497921340381316,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0095",
+      "max_voltage_difference_V": 4.612332495101956e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05682394549143266,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0096",
+      "max_voltage_difference_V": 9.28553791496034e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020441603602795733,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0097",
+      "max_voltage_difference_V": 1.6261772692316434e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.004088797849681469,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0098",
+      "max_voltage_difference_V": 2.8641344781976663e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.017087916976722684,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0099",
+      "max_voltage_difference_V": 5.847445493090131e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0341699785011626,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0100",
+      "max_voltage_difference_V": 7.136463434087581e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0028489483497595725,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0101",
+      "max_voltage_difference_V": 1.5217264393019292e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05680597282726324,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0102",
+      "max_voltage_difference_V": 1.711748207761099e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -2.7755575615628914e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0103",
+      "max_voltage_difference_V": 3.1125980681778742e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -4.163336342344337e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0104",
+      "max_voltage_difference_V": 1.735897708909917e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -2.7755575615628914e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0105",
+      "max_voltage_difference_V": 3.804834156073689e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -2.7755575615628914e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0106",
+      "max_voltage_difference_V": 3.741413297231322e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -4.85722573273506e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0107",
+      "max_voltage_difference_V": 2.0741362863341273e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -5.551115123125783e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0108",
+      "max_voltage_difference_V": 2.9889608207933627e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029434741266987086,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0109",
+      "max_voltage_difference_V": 8.117469856017134e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005887021632795808,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0110",
+      "max_voltage_difference_V": 7.489373340247019e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02273096902830063,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0111",
+      "max_voltage_difference_V": 3.757954234670513e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04546037972279898,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0112",
+      "max_voltage_difference_V": 8.770887220677093e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0035647285347162327,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0113",
+      "max_voltage_difference_V": 4.0356264680713183e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.07124694656586439,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0114",
+      "max_voltage_difference_V": 7.875101947635299e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.008075111805457003,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0115",
+      "max_voltage_difference_V": 9.219797447029832e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0016151162992861234,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0116",
+      "max_voltage_difference_V": 1.5866247834311897e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.007209219932906297,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0117",
+      "max_voltage_difference_V": 1.95736806672675e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.014417738600815133,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0118",
+      "max_voltage_difference_V": 8.644518441347504e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0013569130422746989,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0119",
+      "max_voltage_difference_V": 6.278053783087545e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02711265977122651,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0120",
+      "max_voltage_difference_V": 1.0458981718197702e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029227923775035358,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0121",
+      "max_voltage_difference_V": 2.798146098437204e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005845658112665908,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0122",
+      "max_voltage_difference_V": 1.1876368324198472e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02244128826363323,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0123",
+      "max_voltage_difference_V": 3.1100361572861113e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04488101040502762,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0124",
+      "max_voltage_difference_V": 8.212931088685815e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.003525634339709982,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0125",
+      "max_voltage_difference_V": 3.3599134439260547e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0704643138532135,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0126",
+      "max_voltage_difference_V": 1.1547356489061134e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029433242349635735,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0127",
+      "max_voltage_difference_V": 3.241169987955317e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0058867219736094545,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0128",
+      "max_voltage_difference_V": 7.77545912586386e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.022707135401991985,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0129",
+      "max_voltage_difference_V": 3.462135456516746e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.045412693135682414,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0130",
+      "max_voltage_difference_V": 9.004339904250536e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0035563966211474285,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0131",
+      "max_voltage_difference_V": 3.726174069851318e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.07107944164650576,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0132",
+      "max_voltage_difference_V": 3.0963398083699856e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029414361834623204,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0133",
+      "max_voltage_difference_V": 7.785478216976172e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.005882945954431562,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0134",
+      "max_voltage_difference_V": 6.96293824958838e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.02271851440509981,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0135",
+      "max_voltage_difference_V": 4.3832746095956443e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04543544465560739,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0136",
+      "max_voltage_difference_V": 9.961238971872843e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.003565783768415265,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0137",
+      "max_voltage_difference_V": 4.6875656718736725e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.071266738114098,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0138",
+      "max_voltage_difference_V": 1.352446579588884e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.3711254354120683e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0139",
+      "max_voltage_difference_V": 9.345770693447442e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 7.695233339433116e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0140",
+      "max_voltage_difference_V": 2.858963134566572e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 4.679590048795035e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0141",
+      "max_voltage_difference_V": 1.1451971501652558e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 4.346523141407488e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0142",
+      "max_voltage_difference_V": 1.3200426413756405e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 2.0219936835985663e-11,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0143",
+      "max_voltage_difference_V": 1.1530701223699813e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 6.245004513516506e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0144",
+      "max_voltage_difference_V": 7.274489776179505e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.85565316311631,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0145",
+      "max_voltage_difference_V": 6.855579171363702e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8556531629641886,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0146",
+      "max_voltage_difference_V": 7.274489776179505e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.85565316311631,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0147",
+      "max_voltage_difference_V": 7.274489776179505e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.85565316311631,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0148",
+      "max_voltage_difference_V": 3.175266817172402e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.99703908056331,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0149",
+      "max_voltage_difference_V": 3.1756095869407e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.99703907926951,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0150",
+      "max_voltage_difference_V": 3.175266817172402e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.99703908056331,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0151",
+      "max_voltage_difference_V": 3.175266817172402e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.99703908056331,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0152",
+      "max_voltage_difference_V": 1.929450609086409e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01406538180053,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0153",
+      "max_voltage_difference_V": 1.929450609086409e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01406538180599,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0154",
+      "max_voltage_difference_V": 1.929450609086409e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01406538180053,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0155",
+      "max_voltage_difference_V": 1.929450609086409e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01406538180053,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0156",
+      "max_voltage_difference_V": 5.633502939052931e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.46150783754788,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0157",
+      "max_voltage_difference_V": 6.515274993557779e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.56619862229788,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0158",
+      "max_voltage_difference_V": 7.381283593631965e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221457377659,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0159",
+      "max_voltage_difference_V": 7.381283593631965e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221432884612,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0160",
+      "max_voltage_difference_V": 1.2236754394403387e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.50965127201665,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0161",
+      "max_voltage_difference_V": 5.6533616180770574e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.55137636379399,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0162",
+      "max_voltage_difference_V": 1.4582597098172084e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221455334174,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0163",
+      "max_voltage_difference_V": 1.4582597098172084e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221432884613,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0164",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.49151523582327,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0165",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.54588593927286,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0166",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221453925999,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0167",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57221432884612,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0168",
+      "max_voltage_difference_V": 7.460595156418004e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8563648330845095,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0169",
+      "max_voltage_difference_V": 1.420637069111247e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8802515011215526,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0170",
+      "max_voltage_difference_V": 1.420637069111247e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8779550528490652,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0171",
+      "max_voltage_difference_V": 1.420637069111247e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8779550528490652,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0172",
+      "max_voltage_difference_V": 7.641946724486204e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.06500295564638,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0173",
+      "max_voltage_difference_V": 2.4623206449671253e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.42219114938487,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0174",
+      "max_voltage_difference_V": 2.2686095503196557e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.32893788042277,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0175",
+      "max_voltage_difference_V": 2.2686095503196557e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.32893788042277,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0176",
+      "max_voltage_difference_V": 2.9262580541339345e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.1236776018041,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0177",
+      "max_voltage_difference_V": 2.9262580541339345e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.29185062552118,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0178",
+      "max_voltage_difference_V": 2.9262580541339345e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.19772973802839,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0179",
+      "max_voltage_difference_V": 2.9262580541339345e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.19772973802839,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0180",
+      "max_voltage_difference_V": 7.365057289737686e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8560070628906707,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0181",
+      "max_voltage_difference_V": 8.78203683784412e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8708672480474272,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0182",
+      "max_voltage_difference_V": 8.78203683784412e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8713769130889795,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0183",
+      "max_voltage_difference_V": 8.78203683784412e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8713769130889795,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0184",
+      "max_voltage_difference_V": 1.4209409362336833e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.99561846402821,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0185",
+      "max_voltage_difference_V": 4.55712246638304e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.76326449128373,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0186",
+      "max_voltage_difference_V": 4.431775684904382e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.41989213163221,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0187",
+      "max_voltage_difference_V": 4.431775684904382e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.41989213163221,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0188",
+      "max_voltage_difference_V": 2.434956654206316e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.96596876515052,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0189",
+      "max_voltage_difference_V": 2.434956654206316e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.78043872980282,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0190",
+      "max_voltage_difference_V": 2.434956654206316e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.62965492905553,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0191",
+      "max_voltage_difference_V": 2.434956654206316e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.62965492905553,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0192",
+      "max_voltage_difference_V": 7.564033979723384e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8577718420677977,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0193",
+      "max_voltage_difference_V": 6.817712736636311e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.10422016754016,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0194",
+      "max_voltage_difference_V": 6.702258069195277e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.67525175341393,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0195",
+      "max_voltage_difference_V": 6.702258069195277e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.67525175341393,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0196",
+      "max_voltage_difference_V": 2.0070600794536153e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.07668390124954,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0197",
+      "max_voltage_difference_V": 9.781378253539974e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.11741010529171,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0198",
+      "max_voltage_difference_V": 9.781378253539974e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.66848356514973,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0199",
+      "max_voltage_difference_V": 9.781378253539974e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.66848356514973,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0200",
+      "max_voltage_difference_V": 5.783126105773917e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.02655143772535,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0201",
+      "max_voltage_difference_V": 9.433187893315154e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.04440654210367,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0202",
+      "max_voltage_difference_V": 5.161922015783221e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.65412453759151,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0203",
+      "max_voltage_difference_V": 5.161922015783221e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.65412453759151,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0204",
+      "max_voltage_difference_V": 3.254281543112886e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.49234234448083,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0205",
+      "max_voltage_difference_V": 8.697847053620172e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.51403875417105,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0206",
+      "max_voltage_difference_V": 8.503896491846019e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854517152985,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0207",
+      "max_voltage_difference_V": 8.503896491846019e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854518497375,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0208",
+      "max_voltage_difference_V": 6.045007644103761e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.46688590364376,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0209",
+      "max_voltage_difference_V": 5.739202077383737e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.5169935420762,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0210",
+      "max_voltage_difference_V": 1.0430851816924797e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854517312238,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0211",
+      "max_voltage_difference_V": 1.0430851816924797e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854518497375,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0212",
+      "max_voltage_difference_V": 3.053108797897164e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.5100692499474,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0213",
+      "max_voltage_difference_V": 8.531786621981952e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.52053342933564,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0214",
+      "max_voltage_difference_V": 1.0486631387383871e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854517418556,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0215",
+      "max_voltage_difference_V": 1.0486631387383871e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 64.57854518497375,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0216",
+      "max_voltage_difference_V": 1.6753907471035376e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9142608275833214,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0217",
+      "max_voltage_difference_V": 1.6753907471035376e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9142608275833214,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0218",
+      "max_voltage_difference_V": 1.6753907471035376e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9142608275833214,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0219",
+      "max_voltage_difference_V": 1.6753907471035376e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9142608275833214,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0220",
+      "max_voltage_difference_V": 1.6437260235528661e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.06033441778462,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0221",
+      "max_voltage_difference_V": 1.6426894948878834e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.060334417784375,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0222",
+      "max_voltage_difference_V": 1.6437260235528661e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.06033441778462,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0223",
+      "max_voltage_difference_V": 1.6437260235528661e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.06033441778462,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0224",
+      "max_voltage_difference_V": 6.201682858792139e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.19019670995848,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0225",
+      "max_voltage_difference_V": 6.201682858792139e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.190196709913415,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0226",
+      "max_voltage_difference_V": 6.201682858792139e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.19019670995848,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0227",
+      "max_voltage_difference_V": 6.201682858792139e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.19019670995848,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0228",
+      "max_voltage_difference_V": 3.326231147807168e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.9796838695662,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0229",
+      "max_voltage_difference_V": 3.326231147807168e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.078617431080545,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0230",
+      "max_voltage_difference_V": 3.326231147807168e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4879415480916827,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0231",
+      "max_voltage_difference_V": 3.326231147807168e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4879415480916827,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0232",
+      "max_voltage_difference_V": 1.1414140837356923e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.955139203838364,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0233",
+      "max_voltage_difference_V": 2.4776256329558932e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.04760187165777,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0234",
+      "max_voltage_difference_V": 1.1607763909793345e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4885081351385874,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0235",
+      "max_voltage_difference_V": 1.1607763909793345e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4885081351385874,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0236",
+      "max_voltage_difference_V": 1.2911518763869534e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.980885948958395,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0237",
+      "max_voltage_difference_V": 1.4194988635918282e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.02609172259923,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0238",
+      "max_voltage_difference_V": 8.780531503271849e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4889274342876555,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0239",
+      "max_voltage_difference_V": 8.780531503271849e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4889274342876555,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0240",
+      "max_voltage_difference_V": 1.7511272387433358e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9315950709922194,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0241",
+      "max_voltage_difference_V": 1.7511272387433358e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9302987789347115,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0242",
+      "max_voltage_difference_V": 1.7511272387433358e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9302987789347115,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0243",
+      "max_voltage_difference_V": 1.7511272387433358e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9302987789347115,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0244",
+      "max_voltage_difference_V": 3.2773205881769796e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.43907513766857,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0245",
+      "max_voltage_difference_V": 3.2773205881769796e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.658769641092874,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0246",
+      "max_voltage_difference_V": 3.2773205881769796e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.53459627659101,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0247",
+      "max_voltage_difference_V": 3.2773205881769796e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.53459627659101,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0248",
+      "max_voltage_difference_V": 7.170377828869131e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.29648543238797,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0249",
+      "max_voltage_difference_V": 7.170377828869131e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.59579083845953,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0250",
+      "max_voltage_difference_V": 7.170377828869131e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.42184988905358,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0251",
+      "max_voltage_difference_V": 7.170377828869131e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.42184988905358,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0252",
+      "max_voltage_difference_V": 1.7626424405866106e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9278154162563196,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0253",
+      "max_voltage_difference_V": 1.7626424405866106e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9290005038835938,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0254",
+      "max_voltage_difference_V": 1.7626424405866106e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9290005038835938,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0255",
+      "max_voltage_difference_V": 1.7626424405866106e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9290005038835938,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0256",
+      "max_voltage_difference_V": 3.2594096234517256e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.96208318055664,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0257",
+      "max_voltage_difference_V": 3.2594096234517256e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.84363757468704,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0258",
+      "max_voltage_difference_V": 3.2594096234517256e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.34090904774042,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0259",
+      "max_voltage_difference_V": 3.2594096234517256e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.34090904774042,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0260",
+      "max_voltage_difference_V": 6.691846412111915e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.15793456382741,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0261",
+      "max_voltage_difference_V": 6.691846412111915e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.73134191010882,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0262",
+      "max_voltage_difference_V": 6.691846412111915e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.57986842415432,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0263",
+      "max_voltage_difference_V": 6.691846412111915e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.57986842415432,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0264",
+      "max_voltage_difference_V": 1.5410035344998185e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.22066314258802,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0265",
+      "max_voltage_difference_V": 1.7760022653912078e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.420428451079715,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0266",
+      "max_voltage_difference_V": 1.0751203011194477e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.80406289290709,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0267",
+      "max_voltage_difference_V": 1.7855837128322172e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.80406289290709,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0268",
+      "max_voltage_difference_V": 3.952084908637188e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.2344139851779,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0269",
+      "max_voltage_difference_V": 3.952084908637188e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.308567845738615,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0270",
+      "max_voltage_difference_V": 3.952084908637188e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.72947768186363,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0271",
+      "max_voltage_difference_V": 3.952084908637188e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.72947768186363,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0272",
+      "max_voltage_difference_V": 1.014144561384267e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.31740386877361,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0273",
+      "max_voltage_difference_V": 1.014144561384267e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.187119619209504,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0274",
+      "max_voltage_difference_V": 1.014144561384267e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.7034236848907,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0275",
+      "max_voltage_difference_V": 1.014144561384267e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.7034236848907,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0276",
+      "max_voltage_difference_V": 1.605561451151205e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.92511030056428,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0277",
+      "max_voltage_difference_V": 2.568904837463304e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.09925785994537,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0278",
+      "max_voltage_difference_V": 1.4100156285612453e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0279",
+      "max_voltage_difference_V": 1.4100156285612453e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0280",
+      "max_voltage_difference_V": 1.3037979598728988e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.96664642297826,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0281",
+      "max_voltage_difference_V": 2.108164425668191e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.09224441190018,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0282",
+      "max_voltage_difference_V": 2.92743575561194e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0283",
+      "max_voltage_difference_V": 2.92743575561194e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0284",
+      "max_voltage_difference_V": 1.5421144028415767e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.92780025280538,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0285",
+      "max_voltage_difference_V": 2.6577559607970924e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 59.08720740388482,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0286",
+      "max_voltage_difference_V": 2.2519002943616195e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0287",
+      "max_voltage_difference_V": 2.2519002943616195e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0288",
+      "max_voltage_difference_V": 7.73442484364173e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.26786454082741024,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0289",
+      "max_voltage_difference_V": 7.73442484364173e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.26786454082741024,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0290",
+      "max_voltage_difference_V": 1.4868521171218507e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7091915908675056,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0291",
+      "max_voltage_difference_V": 1.6507273953997315e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7091915908675056,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0292",
+      "max_voltage_difference_V": 1.5049121240839902e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7807641525461526,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0293",
+      "max_voltage_difference_V": 1.5049121240839902e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7807641525461526,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0294",
+      "max_voltage_difference_V": 6.077816591502916e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.336847238710575,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0295",
+      "max_voltage_difference_V": 5.3201517268876286e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.166478693682386,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0296",
+      "max_voltage_difference_V": 3.360149668143325e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.257485158301186,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0297",
+      "max_voltage_difference_V": 8.643794346691741e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.16647869368239,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0298",
+      "max_voltage_difference_V": 5.151636142588373e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.221722897967524,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0299",
+      "max_voltage_difference_V": 5.3194459746774836e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 62.16647869368239,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0300",
+      "max_voltage_difference_V": 7.684500653859505e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.26724687352046306,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0301",
+      "max_voltage_difference_V": 7.684500653859505e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.26724687352046306,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0302",
+      "max_voltage_difference_V": 1.4307553648784666e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7083733376662891,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0303",
+      "max_voltage_difference_V": 1.9709371627818495e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7083733376662891,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0304",
+      "max_voltage_difference_V": 9.347355008071379e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7827514088593821,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0305",
+      "max_voltage_difference_V": 1.2771238924041972e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7827514088593821,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0306",
+      "max_voltage_difference_V": 7.709469625194476e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.2687390233906406,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0307",
+      "max_voltage_difference_V": 7.709469625194476e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.2687390233906406,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0308",
+      "max_voltage_difference_V": 1.3715658692126098e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.713151621033789,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0309",
+      "max_voltage_difference_V": 1.7771820348677636e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.713151621033789,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0310",
+      "max_voltage_difference_V": 1.342251919680959e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7868360980470348,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0311",
+      "max_voltage_difference_V": 2.018923580746068e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7868360980470348,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0312",
+      "max_voltage_difference_V": 9.920078467007265e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.275135708331202,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0313",
+      "max_voltage_difference_V": 9.920078467007265e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.275135708331202,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0314",
+      "max_voltage_difference_V": 1.1886552769846404e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7204017120240463,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0315",
+      "max_voltage_difference_V": 1.8438717164226404e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.7204017120240463,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0316",
+      "max_voltage_difference_V": 8.495368845895523e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.803371752824876,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0317",
+      "max_voltage_difference_V": 1.737457904979478e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.803371752824876,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0318",
+      "max_voltage_difference_V": 1.3686030617479639e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.1535799622181,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0319",
+      "max_voltage_difference_V": 1.3726807752099945e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.15357996215099,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0320",
+      "max_voltage_difference_V": 1.3628928784148453e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.15270474885102,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0321",
+      "max_voltage_difference_V": 1.4050107873149476e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.15270474882354,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0322",
+      "max_voltage_difference_V": 1.3174113312926228e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.15182313657047,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0323",
+      "max_voltage_difference_V": 1.1677394350616266e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.1518231365858,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0324",
+      "max_voltage_difference_V": 6.543834504130208e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.70707735952271,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0325",
+      "max_voltage_difference_V": 1.459946837208126e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.71671125245803,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0326",
+      "max_voltage_difference_V": 4.2720988913114155e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.70505012008152,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0327",
+      "max_voltage_difference_V": 1.3367629701430128e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.71671125245803,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0328",
+      "max_voltage_difference_V": 4.046802588343612e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.70417744860767,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0329",
+      "max_voltage_difference_V": 1.4466814034740094e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.71671125245803,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0330",
+      "max_voltage_difference_V": 2.5662789659812446e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.40768681652185,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0331",
+      "max_voltage_difference_V": 2.1410592663043126e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.28920493376881,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0332",
+      "max_voltage_difference_V": 1.313960554579635e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.3253720987617,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0333",
+      "max_voltage_difference_V": 5.930408008766874e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.2587037276637,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0334",
+      "max_voltage_difference_V": 6.84175630438072e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.21013010975499,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0335",
+      "max_voltage_difference_V": 6.066037857785367e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.19693587913984,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0336",
+      "max_voltage_difference_V": 1.7522547793476229e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.08966093997343,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0337",
+      "max_voltage_difference_V": 1.5086411199460859e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.745265050136,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0338",
+      "max_voltage_difference_V": 9.141619019062408e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.84660733447167,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0339",
+      "max_voltage_difference_V": 1.2115324927487736e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.81563380795251,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0340",
+      "max_voltage_difference_V": 7.733463866163581e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.82211011304392,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0341",
+      "max_voltage_difference_V": 1.386558014290079e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.82124879129358,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0342",
+      "max_voltage_difference_V": 1.7663197529257935e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 68.21795405768182,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0343",
+      "max_voltage_difference_V": 6.671474937422484e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.7543267725194,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0344",
+      "max_voltage_difference_V": 6.849136954811819e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.99523417998827,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0345",
+      "max_voltage_difference_V": 8.410926564256238e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.75898800807242,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0346",
+      "max_voltage_difference_V": 1.6818628949082093e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.74816117809698,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0347",
+      "max_voltage_difference_V": 7.77737995272948e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 67.71429369934175,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0348",
+      "max_voltage_difference_V": 2.037569765689362e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.009666641543434884,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0349",
+      "max_voltage_difference_V": 3.0499853614918138e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04367890690598619,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0350",
+      "max_voltage_difference_V": 3.0476773882348596e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04316812484184834,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0351",
+      "max_voltage_difference_V": 2.0351833135423547e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.010892690139187311,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0352",
+      "max_voltage_difference_V": 1.0553806231716756e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029729251567758852,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0353",
+      "max_voltage_difference_V": 1.9269511750130697e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.018560802069335358,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0354",
+      "max_voltage_difference_V": 3.0499845080078636e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04366352738607859,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0355",
+      "max_voltage_difference_V": 2.0351833412979303e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.010908145574611838,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0356",
+      "max_voltage_difference_V": 1.0569992311970644e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.029906223957175404,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0357",
+      "max_voltage_difference_V": 1.0567506245062752e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03276008227575539,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0358",
+      "max_voltage_difference_V": 3.0499853753696016e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.043688132891767095,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0359",
+      "max_voltage_difference_V": 1.9762089603636568e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.015700085052493262,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0360",
+      "max_voltage_difference_V": 1.0506642014740386e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.032474228386022985,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0361",
+      "max_voltage_difference_V": 1.0966559257918895e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.035583312084634666,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0362",
+      "max_voltage_difference_V": 1.8254254219307597e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.010736151745238676,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0363",
+      "max_voltage_difference_V": 3.374363961861082e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0485170292352094,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0364",
+      "max_voltage_difference_V": 3.3745240907157026e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.047949564064654615,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0365",
+      "max_voltage_difference_V": 1.822989308120082e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.012097908042296712,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0366",
+      "max_voltage_difference_V": 7.332620344246976e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0330208818219227,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0367",
+      "max_voltage_difference_V": 1.6971529598341917e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.020614182665218417,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0368",
+      "max_voltage_difference_V": 3.3744119373735337e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04849992904549377,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0369",
+      "max_voltage_difference_V": 1.8229892734256126e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.012115077593813361,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0370",
+      "max_voltage_difference_V": 7.332536938742251e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.033217464189654045,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0371",
+      "max_voltage_difference_V": 7.029313936479653e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0363871694821008,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0372",
+      "max_voltage_difference_V": 3.374363968799976e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.04852727847299426,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0373",
+      "max_voltage_difference_V": 1.7540252236769582e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0174371308120716,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0374",
+      "max_voltage_difference_V": 7.016238562362886e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03606979114436498,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0375",
+      "max_voltage_difference_V": 6.854775566611515e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0395230983064182,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0376",
+      "max_voltage_difference_V": 1.6147986420245175e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.011804652739033639,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0377",
+      "max_voltage_difference_V": 3.6547981585588474e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05335191603981354,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0378",
+      "max_voltage_difference_V": 3.6315104604001114e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.052727783079839496,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0379",
+      "max_voltage_difference_V": 1.6123315044191955e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.01330200360519923,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0380",
+      "max_voltage_difference_V": 7.727235795673693e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03630998851791856,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0381",
+      "max_voltage_difference_V": 1.4700589426319688e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.022665599146085014,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0382",
+      "max_voltage_difference_V": 3.6548939638669786e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05333309271975811,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0383",
+      "max_voltage_difference_V": 1.612331462785832e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.013320886588168157,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0384",
+      "max_voltage_difference_V": 7.726597486823472e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03652616948356807,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0385",
+      "max_voltage_difference_V": 7.88956774910865e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.0400114548901459,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0386",
+      "max_voltage_difference_V": 3.6547981516199535e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.05336318813392582,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0387",
+      "max_voltage_difference_V": 1.5340237621841446e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.019172544791438983,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0388",
+      "max_voltage_difference_V": 7.747206209884894e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.03966260235915148,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0389",
+      "max_voltage_difference_V": 8.487845912230618e-10,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.043459868904784094,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0390",
+      "max_voltage_difference_V": 7.381283593631965e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.7560939160743902,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0391",
+      "max_voltage_difference_V": 7.274489776179505e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.85565316311631,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0392",
+      "max_voltage_difference_V": 8.009335934928974e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8537321632538786,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0393",
+      "max_voltage_difference_V": 6.256389422677755e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.2075976985483,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0394",
+      "max_voltage_difference_V": 4.098237378104275e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.36436151743618,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0395",
+      "max_voltage_difference_V": 8.869753688814375e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.07918372297722,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0396",
+      "max_voltage_difference_V": 7.141207209425404e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8558910570294204,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0397",
+      "max_voltage_difference_V": 6.181152376744103e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.84728322481702,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0398",
+      "max_voltage_difference_V": 6.227251094469144e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.41683650631491,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0399",
+      "max_voltage_difference_V": 5.247449591516684e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.29353263950851,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0400",
+      "max_voltage_difference_V": 7.268735676205229e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.8558609034929887,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0401",
+      "max_voltage_difference_V": 5.873471926615831e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01559703567253,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0402",
+      "max_voltage_difference_V": 5.149056430970439e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.07443697830287,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0403",
+      "max_voltage_difference_V": 5.698893162844193e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.38594298714865,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0404",
+      "max_voltage_difference_V": 1.4582597098172084e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.7561044667512156,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0405",
+      "max_voltage_difference_V": 3.175266817172402e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.99703908056331,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0406",
+      "max_voltage_difference_V": 5.507173824505218e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.27383509700819,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0407",
+      "max_voltage_difference_V": 5.23020352843212e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.16105149017697,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0408",
+      "max_voltage_difference_V": 8.219582021875421e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.37055904956236,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0409",
+      "max_voltage_difference_V": 6.327618182287026e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.07849151015368,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0410",
+      "max_voltage_difference_V": 3.4412096898764344e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.38062999907882,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0411",
+      "max_voltage_difference_V": 6.924801031291811e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.87442752440764,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0412",
+      "max_voltage_difference_V": 6.641548125352337e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.40996166410467,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0413",
+      "max_voltage_difference_V": 1.2413190134553248e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.24276450284033,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0414",
+      "max_voltage_difference_V": 2.9525151445787198e-05,
+      "classification_agrees": true,
+      "passed": false,
+      "refined_peak_mV": 65.58842438441914,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0415",
+      "max_voltage_difference_V": 7.700604507093062e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.04821124826975,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0416",
+      "max_voltage_difference_V": 4.886825977559739e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.1460563500574,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0417",
+      "max_voltage_difference_V": 1.2780281938296056e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.32781771742732,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0418",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.7560901865955256,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0419",
+      "max_voltage_difference_V": 1.929450609086409e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.01406538180053,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0420",
+      "max_voltage_difference_V": 2.3807327946458873e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.28720677481785,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0421",
+      "max_voltage_difference_V": 6.320106193773156e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.1799688150834,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0422",
+      "max_voltage_difference_V": 1.4326073318523397e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.25910337656923,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0423",
+      "max_voltage_difference_V": 5.773309729329573e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.06386672777356,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0424",
+      "max_voltage_difference_V": 1.9609196707376375e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.4025085389468,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0425",
+      "max_voltage_difference_V": 4.825243846498517e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.86957024886603,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0426",
+      "max_voltage_difference_V": 8.137755031726451e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.37736850929258,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0427",
+      "max_voltage_difference_V": 6.773379087211123e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.24411662957097,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0428",
+      "max_voltage_difference_V": 1.9294810725870547e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 65.61190438276662,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0429",
+      "max_voltage_difference_V": 1.4796138548926752e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.03385250333092,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0430",
+      "max_voltage_difference_V": 6.061527129796324e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.1610684543528,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0431",
+      "max_voltage_difference_V": 1.2516162317417062e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 66.26319592251686,
+      "refined_final_fraction": 1.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0432",
+      "max_voltage_difference_V": 3.326231147807168e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4879415480916827,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0433",
+      "max_voltage_difference_V": 1.6753907471035376e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9142608275833214,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0434",
+      "max_voltage_difference_V": 1.751159192085218e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9138461101726586,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0435",
+      "max_voltage_difference_V": 4.728276304516443e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.876820571414065,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0436",
+      "max_voltage_difference_V": 2.242779201938605e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.66427150581902,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0437",
+      "max_voltage_difference_V": 8.281227758741294e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.99717533003086,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0438",
+      "max_voltage_difference_V": 1.6838043389189733e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9148995741105753,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0439",
+      "max_voltage_difference_V": 4.7282728760089654e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.25081121623463,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0440",
+      "max_voltage_difference_V": 1.6841787790766727e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.93392390435166,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0441",
+      "max_voltage_difference_V": 3.678718641782707e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.59880671686179,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0442",
+      "max_voltage_difference_V": 1.675399181051522e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.9144712570497635,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.019230769230769232
+    },
+    {
+      "id": "case0443",
+      "max_voltage_difference_V": 2.8647574424472966e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.87732887951333,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0444",
+      "max_voltage_difference_V": 4.41029528778597e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.499229598115285,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0445",
+      "max_voltage_difference_V": 3.425486593078915e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 0.6962505453513984,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0446",
+      "max_voltage_difference_V": 1.1607763909793345e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4885081351385874,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0447",
+      "max_voltage_difference_V": 1.6437260235528661e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.06033441778462,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0448",
+      "max_voltage_difference_V": 3.793619268374626e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.297390296863476,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0449",
+      "max_voltage_difference_V": 3.033595863399796e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.88051471365394,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0450",
+      "max_voltage_difference_V": 1.3547866141438991e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.958071112517445,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0451",
+      "max_voltage_difference_V": 1.857511228858799e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.01360478626841,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0452",
+      "max_voltage_difference_V": 2.5654287311681345e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.41507095025509,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0453",
+      "max_voltage_difference_V": 1.9378107396494926e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.264242002565446,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0454",
+      "max_voltage_difference_V": 2.7202337632425966e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.93728305268467,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0455",
+      "max_voltage_difference_V": 2.8799048608103145e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.537712099922985,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0456",
+      "max_voltage_difference_V": 1.6607456353630312e-06,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.61813955966073,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0457",
+      "max_voltage_difference_V": 2.7651345588242116e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.88725137047136,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0458",
+      "max_voltage_difference_V": 2.3222714814726333e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.60339526727571,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0459",
+      "max_voltage_difference_V": 1.647567864733121e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.676149225477594,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0460",
+      "max_voltage_difference_V": 8.780531503271849e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4889274342876555,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0461",
+      "max_voltage_difference_V": 6.201682858792139e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.19019670995848,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0462",
+      "max_voltage_difference_V": 6.646613086065819e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.35464205518823,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0463",
+      "max_voltage_difference_V": 4.455141550119279e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.89241099575438,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0464",
+      "max_voltage_difference_V": 2.4792288115180194e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.738101638208185,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0465",
+      "max_voltage_difference_V": 2.0333999640326228e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.01666624429649,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0466",
+      "max_voltage_difference_V": 6.218976566135575e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.5004855369872,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0467",
+      "max_voltage_difference_V": 1.4352105618536948e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.27230033598122,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0468",
+      "max_voltage_difference_V": 2.4794104832095987e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.78147622774807,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0469",
+      "max_voltage_difference_V": 1.7087725040498825e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.5037919294542,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0470",
+      "max_voltage_difference_V": 6.201686039527572e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.73316195645527,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0471",
+      "max_voltage_difference_V": 1.1507750013323159e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 60.89980843682651,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0472",
+      "max_voltage_difference_V": 1.0587453337651542e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.486108666101146,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0473",
+      "max_voltage_difference_V": 1.4522415353601659e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 61.52417198927143,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 1.0
+    },
+    {
+      "id": "case0474",
+      "max_voltage_difference_V": 2.0185242366466127e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -1.3877787807814457e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0475",
+      "max_voltage_difference_V": 2.0490553698238045e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -1.3877787807814457e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0476",
+      "max_voltage_difference_V": 2.1899149160731213e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0477",
+      "max_voltage_difference_V": 2.165628787409446e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 9.020562075079397e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0478",
+      "max_voltage_difference_V": 1.963013085415355e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 9.020562075079397e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0479",
+      "max_voltage_difference_V": 1.78537740147533e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 9.020562075079397e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0480",
+      "max_voltage_difference_V": 8.961794082870678e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.7560901865955256,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0481",
+      "max_voltage_difference_V": 1.0486631387383871e-07,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 9.020562075079397e-14,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0482",
+      "max_voltage_difference_V": 1.7506829319557937e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0483",
+      "max_voltage_difference_V": 2.3724078257458814e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0484",
+      "max_voltage_difference_V": 1.912359159916832e-14,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0485",
+      "max_voltage_difference_V": 8.780531503271849e-09,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": 1.4889274342876555,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    },
+    {
+      "id": "case0486",
+      "max_voltage_difference_V": 2.2519002943616195e-08,
+      "classification_agrees": true,
+      "passed": true,
+      "refined_peak_mV": -6.938893903907228e-15,
+      "refined_final_fraction": 0.0,
+      "refined_ever_fraction": 0.0
+    }
+  ],
+  "radau": [
+    {
+      "id": "case0000",
+      "max_voltage_difference_V": 7.973018772977625e-11,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0144",
+      "max_voltage_difference_V": 1.5590559919453906e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0148",
+      "max_voltage_difference_V": 2.2190860437046322e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0149",
+      "max_voltage_difference_V": 2.2222547116368396e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0150",
+      "max_voltage_difference_V": 2.2190860437046322e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0151",
+      "max_voltage_difference_V": 2.2190860437046322e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0216",
+      "max_voltage_difference_V": 3.1603793540502245e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0288",
+      "max_voltage_difference_V": 1.1458404364228514e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0348",
+      "max_voltage_difference_V": 9.455880523034921e-11,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0390",
+      "max_voltage_difference_V": 3.6665985525541345e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0405",
+      "max_voltage_difference_V": 2.2190860437046322e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0414",
+      "max_voltage_difference_V": 2.0679843228642303e-07,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0432",
+      "max_voltage_difference_V": 2.0315274462667787e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0474",
+      "max_voltage_difference_V": 3.885780586188048e-16,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0477",
+      "max_voltage_difference_V": 3.5388358909926865e-16,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0480",
+      "max_voltage_difference_V": 2.5556571442431064e-10,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0482",
+      "max_voltage_difference_V": 4.579669976578771e-16,
+      "classification_agrees": true,
+      "passed": true
+    },
+    {
+      "id": "case0485",
+      "max_voltage_difference_V": 2.86855809938924e-10,
+      "classification_agrees": true,
+      "passed": true
+    }
+  ],
+  "extended": [
+    {
+      "id": "case0147",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 0.0,
+      "final_fraction_5s": 0.0,
+      "final_dv_max_V_s": 6.419561063286672e-14,
+      "max_V_change_2_to_5s": 9.020562075079397e-17
+    },
+    {
+      "id": "case0159",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 1.0,
+      "final_fraction_5s": 1.0,
+      "final_dv_max_V_s": 2.4147350785597155e-13,
+      "max_V_change_2_to_5s": 1.7607443281164592e-16
+    },
+    {
+      "id": "case0207",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 1.0,
+      "final_fraction_5s": 1.0,
+      "final_dv_max_V_s": 2.220446049250313e-13,
+      "max_V_change_2_to_5s": 1.942890293094024e-16
+    },
+    {
+      "id": "case0219",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 0.0,
+      "final_fraction_5s": 0.0,
+      "final_dv_max_V_s": 3.806633827596606e-14,
+      "max_V_change_2_to_5s": 1.4033219031261979e-13
+    },
+    {
+      "id": "case0231",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 0.0,
+      "final_fraction_5s": 0.0,
+      "final_dv_max_V_s": 7.3823325924538e-14,
+      "max_V_change_2_to_5s": 4.504834005825131e-12
+    },
+    {
+      "id": "case0279",
+      "horizon_s": 5.0,
+      "final_fraction_2s": 0.0,
+      "final_fraction_5s": 0.0,
+      "final_dv_max_V_s": 5.038287495540139e-14,
+      "max_V_change_2_to_5s": 4.518517504603636e-12
+    }
+  ],
+  "passed": false,
+  "maximum_voltage_difference_V": 3.1756095869407e-05,
+  "maximum_radau_difference_V": 2.2222547116368396e-07
+}

@@ -1,0 +1,13 @@
+id,intact_id,geometry,model,gd,factor,history,restore_s,same_final_graph,accepted_stable_pair,intact_category,restored_category,intact_target_high,restored_target_high,target_count,intact_total_high,restored_total_high,max_final_voltage_difference_V,target_fraction_difference,history_dependence
+v0113,v0112,historica,cubic,0.0,0.9,interface,0.02,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0114,v0112,historica,cubic,0.0,0.9,interface,0.05,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0115,v0112,historica,cubic,0.0,0.9,interface,0.2,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0116,v0112,historica,cubic,0.0,0.9,interface,0.5,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0120,v0119,historica,cubic,0.0,1.0,interface,0.02,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0121,v0119,historica,cubic,0.0,1.0,interface,0.05,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0122,v0119,historica,cubic,0.0,1.0,interface,0.2,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0123,v0119,historica,cubic,0.0,1.0,interface,0.5,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0127,v0126,historica,cubic,0.0,1.1,interface,0.02,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0128,v0126,historica,cubic,0.0,1.1,interface,0.05,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0129,v0126,historica,cubic,0.0,1.1,interface,0.2,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
+v0130,v0126,historica,cubic,0.0,1.1,interface,0.5,True,True,transiente_sem_persistencia,transiente_sem_persistencia,0,0,104,0,0,6.938893903907228e-18,0.0,False
